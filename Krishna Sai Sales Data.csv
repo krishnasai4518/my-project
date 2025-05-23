@@ -1,0 +1,971 @@
+Product ID,Product Price,Sales Quantity,Time,Facebook Impressions,Google Clicks,Promotions,Order Date,Day,Month,Season
+20016,25.55,4,03:26:21,511,534,No Promotion,03/02/2022,Thursday,February,Winter
+20016,43.25,2,03:37:51,322,280,Buy 1 Get 1,04/02/2022,Friday,February,Winter
+20012,44.59,5,19:39:41,1020,881,Buy 1 Get 1,05/02/2022,Saturday,February,Winter
+20002,75.91,6,23:08:59,415,504,10% Discount,06/02/2022,Sunday,February,Winter
+20004,74.44,10,00:35:59,322,302,5% Discount,07/02/2022,Monday,February,Winter
+20015,99.71,6,00:47:06,753,785,10% Discount,08/02/2022,Tuesday,February,Winter
+20007,72.84,7,19:56:44,789,928,5% Discount,09/02/2022,Wednesday,February,Winter
+20015,69.37,9,14:08:53,309,274,5% Discount,10/02/2022,Thursday,February,Winter
+20010,96.37,7,21:01:30,670,726,Buy 1 Get 1,11/02/2022,Friday,February,Winter
+20015,51.91,10,22:45:49,653,724,5% Discount,12/02/2022,Saturday,February,Winter
+20015,13.78,4,13:43:05,585,510,10% Discount,13/02/2022,Sunday,February,Winter
+20010,95.95,5,18:24:50,215,240,No Promotion,14/02/2022,Monday,February,Winter
+20008,71.95,1,19:02:59,848,946,No Promotion,15/02/2022,Tuesday,February,Winter
+20006,64.97,5,09:23:03,449,391,No Promotion,16/02/2022,Wednesday,February,Winter
+20009,98.52,10,16:18:53,344,419,5% Discount,17/02/2022,Thursday,February,Winter
+20015,23.03,9,09:21:25,339,292,No Promotion,18/02/2022,Friday,February,Winter
+20010,46.2,1,11:51:08,581,491,Buy 1 Get 1,19/02/2022,Saturday,February,Winter
+20004,60.3,4,01:22:02,815,957,5% Discount,20/02/2022,Sunday,February,Winter
+20007,94.59,7,01:58:53,341,303,5% Discount,21/02/2022,Monday,February,Winter
+20004,99.19,6,19:34:28,129,130,5% Discount,22/02/2022,Tuesday,February,Winter
+20007,29.22,6,10:05:27,319,269,Buy 1 Get 1,23/02/2022,Wednesday,February,Winter
+20010,51.94,3,20:33:53,620,687,5% Discount,24/02/2022,Thursday,February,Winter
+20011,20.89,2,13:29:49,859,903,10% Discount,25/02/2022,Friday,February,Winter
+20013,29.42,10,20:16:05,734,823,10% Discount,26/02/2022,Saturday,February,Winter
+20013,11.53,7,01:47:38,454,422,10% Discount,27/02/2022,Sunday,February,Winter
+20016,15.8,10,09:38:53,328,331,Buy 1 Get 1,28/02/2022,Monday,February,Winter
+20002,51.89,7,21:47:02,143,135,Buy 1 Get 1,01/03/2022,Tuesday,March,Summer
+20004,30.14,10,19:24:48,67,77,5% Discount,02/03/2022,Wednesday,March,Summer
+20008,88.45,1,02:46:16,68,85,No Promotion,03/03/2022,Thursday,March,Summer
+20007,97.22,9,00:51:36,700,854,No Promotion,04/03/2022,Friday,March,Summer
+20006,46.47,4,01:33:34,685,792,10% Discount,05/03/2022,Saturday,March,Summer
+20004,81.31,7,06:57:44,400,442,Buy 1 Get 1,06/03/2022,Sunday,March,Summer
+20008,91.35,1,09:24:52,407,406,5% Discount,07/03/2022,Monday,March,Summer
+20003,81.21,10,06:38:10,901,836,Buy 1 Get 1,08/03/2022,Tuesday,March,Summer
+20014,58.24,9,11:13:49,759,872,Buy 1 Get 1,09/03/2022,Wednesday,March,Summer
+20002,56.56,5,16:49:12,115,127,10% Discount,10/03/2022,Thursday,March,Summer
+20016,39.48,1,14:41:10,913,776,5% Discount,11/03/2022,Friday,March,Summer
+20015,76.9,7,02:23:45,586,673,Buy 1 Get 1,12/03/2022,Saturday,March,Summer
+20010,65.91,6,23:43:34,283,288,No Promotion,13/03/2022,Sunday,March,Summer
+20012,96.11,1,14:56:59,358,414,5% Discount,14/03/2022,Monday,March,Summer
+20015,10.18,8,19:26:42,585,490,10% Discount,15/03/2022,Tuesday,March,Summer
+20002,97.26,4,20:28:57,368,322,Buy 1 Get 1,16/03/2022,Wednesday,March,Summer
+20006,97.16,1,05:08:01,549,605,5% Discount,17/03/2022,Thursday,March,Summer
+20002,14.39,2,16:25:03,851,741,5% Discount,18/03/2022,Friday,March,Summer
+20008,88.36,5,20:36:49,268,241,No Promotion,19/03/2022,Saturday,March,Summer
+20014,97.79,7,10:26:03,95,82,10% Discount,20/03/2022,Sunday,March,Summer
+20001,76.6,10,19:54:38,488,506,5% Discount,21/03/2022,Monday,March,Summer
+20003,47.68,2,04:43:37,130,119,10% Discount,22/03/2022,Tuesday,March,Summer
+20015,23.65,4,19:38:55,233,202,10% Discount,23/03/2022,Wednesday,March,Summer
+20014,99.6,3,22:00:05,836,781,10% Discount,24/03/2022,Thursday,March,Summer
+20005,54.28,7,14:15:33,876,932,Buy 1 Get 1,25/03/2022,Friday,March,Summer
+20016,85.91,5,04:56:32,202,176,5% Discount,26/03/2022,Saturday,March,Summer
+20007,25.22,7,09:27:23,298,332,No Promotion,27/03/2022,Sunday,March,Summer
+20015,44.86,10,20:42:10,443,526,No Promotion,28/03/2022,Monday,March,Summer
+20007,15.34,1,01:29:56,909,779,10% Discount,29/03/2022,Tuesday,March,Summer
+20002,26.02,7,04:46:25,346,303,10% Discount,30/03/2022,Wednesday,March,Summer
+20007,32.9,3,15:44:51,670,828,5% Discount,31/03/2022,Thursday,March,Summer
+20013,78.77,10,08:52:50,687,614,No Promotion,01/04/2022,Friday,April,Summer
+20012,24.74,10,10:40:04,196,209,10% Discount,02/04/2022,Saturday,April,Summer
+20008,74.58,7,21:15:57,850,800,No Promotion,03/04/2022,Sunday,April,Summer
+20012,29.15,3,03:12:03,768,747,Buy 1 Get 1,04/04/2022,Monday,April,Summer
+20001,61.29,5,07:55:50,834,825,No Promotion,05/04/2022,Tuesday,April,Summer
+20003,88.67,10,21:02:29,335,301,5% Discount,06/04/2022,Wednesday,April,Summer
+20007,34.42,6,23:17:33,496,441,Buy 1 Get 1,07/04/2022,Thursday,April,Summer
+20013,71.38,10,11:01:18,111,137,10% Discount,08/04/2022,Friday,April,Summer
+20001,25.56,7,16:44:53,410,418,5% Discount,09/04/2022,Saturday,April,Summer
+20013,96.16,4,06:10:43,309,350,5% Discount,10/04/2022,Sunday,April,Summer
+20003,81.37,2,05:06:50,653,682,Buy 1 Get 1,11/04/2022,Monday,April,Summer
+20014,69.4,2,16:58:25,996,952,5% Discount,12/04/2022,Tuesday,April,Summer
+20005,97.38,10,15:24:12,773,766,Buy 1 Get 1,13/04/2022,Wednesday,April,Summer
+20003,67.39,7,08:23:59,235,243,5% Discount,14/04/2022,Thursday,April,Summer
+20007,66.14,4,00:50:35,171,184,No Promotion,15/04/2022,Friday,April,Summer
+20016,53.3,3,23:37:30,962,807,No Promotion,16/04/2022,Saturday,April,Summer
+20014,93.88,7,18:58:57,286,300,5% Discount,17/04/2022,Sunday,April,Summer
+20016,44.65,3,17:42:31,832,930,10% Discount,18/04/2022,Monday,April,Summer
+20011,37.44,6,02:01:14,781,714,No Promotion,19/04/2022,Tuesday,April,Summer
+20015,71.63,2,20:51:39,283,282,No Promotion,20/04/2022,Wednesday,April,Summer
+20013,60.95,1,17:42:42,107,100,No Promotion,21/04/2022,Thursday,April,Summer
+20012,73.47,10,11:46:45,188,192,5% Discount,22/04/2022,Friday,April,Summer
+20011,91.3,1,01:28:28,86,88,10% Discount,23/04/2022,Saturday,April,Summer
+20003,28.38,5,19:56:23,284,308,Buy 1 Get 1,24/04/2022,Sunday,April,Summer
+20014,19.32,7,02:55:27,760,869,10% Discount,25/04/2022,Monday,April,Summer
+20015,99.7,3,19:08:40,302,272,5% Discount,26/04/2022,Tuesday,April,Summer
+20004,82.58,10,00:42:09,597,571,Buy 1 Get 1,27/04/2022,Wednesday,April,Summer
+20003,89.48,10,17:29:43,323,389,Buy 1 Get 1,28/04/2022,Thursday,April,Summer
+20015,96.68,3,03:36:49,1027,981,10% Discount,29/04/2022,Friday,April,Summer
+20011,12.03,2,01:15:40,937,904,Buy 1 Get 1,30/04/2022,Saturday,April,Summer
+20005,36.98,10,02:55:16,174,153,10% Discount,01/05/2022,Sunday,May,Summer
+20011,89.25,8,04:31:56,384,353,10% Discount,02/05/2022,Monday,May,Summer
+20002,41.24,4,22:45:16,676,722,Buy 1 Get 1,03/05/2022,Tuesday,May,Summer
+20009,41.06,6,14:47:05,965,945,No Promotion,04/05/2022,Wednesday,May,Summer
+20011,22.62,1,11:01:45,400,372,5% Discount,05/05/2022,Thursday,May,Summer
+20004,23.75,9,06:55:18,787,885,No Promotion,06/05/2022,Friday,May,Summer
+20014,84.87,3,11:29:36,350,416,No Promotion,07/05/2022,Saturday,May,Summer
+20007,53.65,7,12:41:06,383,334,Buy 1 Get 1,08/05/2022,Sunday,May,Summer
+20015,84.63,10,10:48:21,452,560,5% Discount,09/05/2022,Monday,May,Summer
+20009,19.66,10,00:00:27,436,526,Buy 1 Get 1,10/05/2022,Tuesday,May,Summer
+20005,54.86,5,22:06:25,423,403,No Promotion,11/05/2022,Wednesday,May,Summer
+20009,96.7,5,05:46:37,177,161,10% Discount,12/05/2022,Thursday,May,Summer
+20002,18.77,6,11:05:03,56,54,10% Discount,13/05/2022,Friday,May,Summer
+20001,89.2,10,15:37:22,848,708,No Promotion,14/05/2022,Saturday,May,Summer
+20012,89.14,4,04:11:35,119,148,5% Discount,15/05/2022,Sunday,May,Summer
+20007,51.32,9,18:34:13,644,677,10% Discount,16/05/2022,Monday,May,Summer
+20015,55.97,7,17:59:12,442,395,Buy 1 Get 1,17/05/2022,Tuesday,May,Summer
+20012,92.09,3,13:22:03,732,864,5% Discount,18/05/2022,Wednesday,May,Summer
+20008,75.74,4,12:23:00,59,63,5% Discount,19/05/2022,Thursday,May,Summer
+20007,66.68,5,03:41:02,509,465,Buy 1 Get 1,20/05/2022,Friday,May,Summer
+20010,99.69,1,10:02:04,365,429,Buy 1 Get 1,21/05/2022,Saturday,May,Summer
+20005,91.56,8,14:16:35,244,226,No Promotion,22/05/2022,Sunday,May,Summer
+20015,66.65,9,11:27:00,141,135,Buy 1 Get 1,23/05/2022,Monday,May,Summer
+20013,44.07,4,06:15:16,198,197,10% Discount,24/05/2022,Tuesday,May,Summer
+20007,95.44,10,22:53:55,763,865,Buy 1 Get 1,25/05/2022,Wednesday,May,Summer
+20015,69.81,4,07:35:27,653,613,No Promotion,26/05/2022,Thursday,May,Summer
+20007,73.05,4,12:33:20,553,662,5% Discount,27/05/2022,Friday,May,Summer
+20008,76.06,3,06:01:04,225,200,No Promotion,28/05/2022,Saturday,May,Summer
+20006,47.59,8,21:48:30,702,713,No Promotion,29/05/2022,Sunday,May,Summer
+20012,55.07,9,13:09:53,639,650,5% Discount,30/05/2022,Monday,May,Summer
+20005,68.6,10,22:48:56,840,822,No Promotion,31/05/2022,Tuesday,May,Summer
+20016,46.26,6,15:45:11,99,90,5% Discount,01/06/2022,Wednesday,June,Summer
+20011,33.26,5,23:09:56,807,992,5% Discount,02/06/2022,Thursday,June,Summer
+20012,20.18,4,09:41:14,660,669,5% Discount,03/06/2022,Friday,June,Summer
+20003,11.94,3,10:33:37,712,785,Buy 1 Get 1,04/06/2022,Saturday,June,Summer
+20008,72.11,9,04:56:27,827,925,5% Discount,05/06/2022,Sunday,June,Summer
+20001,50.93,8,04:18:01,228,279,No Promotion,06/06/2022,Monday,June,Summer
+20016,16.67,7,19:35:06,738,832,10% Discount,07/06/2022,Tuesday,June,Summer
+20016,41.66,6,02:55:19,813,685,Buy 1 Get 1,08/06/2022,Wednesday,June,Summer
+20015,45.97,4,07:25:31,524,457,10% Discount,09/06/2022,Thursday,June,Summer
+20013,35.49,6,17:59:30,813,918,5% Discount,10/06/2022,Friday,June,Summer
+20014,12.45,6,06:20:07,202,251,10% Discount,11/06/2022,Saturday,June,Summer
+20013,19.77,10,18:11:46,850,810,5% Discount,12/06/2022,Sunday,June,Summer
+20012,64.36,9,11:25:22,456,451,10% Discount,13/06/2022,Monday,June,Summer
+20014,11.43,6,20:28:42,89,88,5% Discount,14/06/2022,Tuesday,June,Summer
+20013,38.3,4,07:55:19,477,436,10% Discount,15/06/2022,Wednesday,June,Summer
+20006,58.22,8,11:35:58,270,320,No Promotion,16/06/2022,Thursday,June,Summer
+20012,14.62,5,18:09:38,238,286,Buy 1 Get 1,17/06/2022,Friday,June,Summer
+20001,47.63,9,20:44:07,796,978,10% Discount,18/06/2022,Saturday,June,Summer
+20002,57.27,3,17:01:46,96,96,No Promotion,19/06/2022,Sunday,June,Summer
+20001,62.12,10,21:31:18,162,141,5% Discount,20/06/2022,Monday,June,Summer
+20005,90.24,6,09:40:12,985,970,No Promotion,21/06/2022,Tuesday,June,Summer
+20010,65.74,9,15:23:34,120,107,No Promotion,22/06/2022,Wednesday,June,Summer
+20006,88.55,8,19:49:37,475,565,No Promotion,23/06/2022,Thursday,June,Summer
+20004,63.42,8,14:55:38,282,332,Buy 1 Get 1,24/06/2022,Friday,June,Summer
+20004,39.42,1,21:11:29,729,760,No Promotion,25/06/2022,Saturday,June,Summer
+20001,34.7,2,15:49:53,74,88,No Promotion,26/06/2022,Sunday,June,Summer
+20001,43.27,2,09:54:31,575,708,5% Discount,27/06/2022,Monday,June,Summer
+20014,19.1,7,09:21:55,552,567,10% Discount,28/06/2022,Tuesday,June,Summer
+20016,25.43,6,10:39:42,315,391,5% Discount,29/06/2022,Wednesday,June,Summer
+20010,65.26,8,17:57:26,797,813,10% Discount,30/06/2022,Thursday,June,Summer
+20002,23.48,2,23:08:58,1080,995,5% Discount,01/07/2022,Friday,July,Monsoon
+20009,48.96,9,21:37:34,531,566,5% Discount,02/07/2022,Saturday,July,Monsoon
+20005,57.22,2,12:53:07,859,825,5% Discount,03/07/2022,Sunday,July,Monsoon
+20013,52.79,10,02:12:16,538,554,5% Discount,04/07/2022,Monday,July,Monsoon
+20010,63.71,5,08:45:23,855,763,5% Discount,05/07/2022,Tuesday,July,Monsoon
+20011,17.41,5,13:54:44,533,505,5% Discount,06/07/2022,Wednesday,July,Monsoon
+20012,21.58,9,10:22:32,842,719,5% Discount,07/07/2022,Thursday,July,Monsoon
+20016,59.61,10,15:31:32,536,537,10% Discount,08/07/2022,Friday,July,Monsoon
+20002,79.54,2,00:01:36,145,139,10% Discount,09/07/2022,Saturday,July,Monsoon
+20003,81.68,4,03:49:12,875,969,Buy 1 Get 1,10/07/2022,Sunday,July,Monsoon
+20004,64.44,5,04:14:53,693,675,No Promotion,11/07/2022,Monday,July,Monsoon
+20007,58.76,10,05:52:20,71,68,No Promotion,12/07/2022,Tuesday,July,Monsoon
+20004,17.49,10,01:07:21,43,50,Buy 1 Get 1,13/07/2022,Wednesday,July,Monsoon
+20016,58.07,9,02:39:57,93,102,10% Discount,14/07/2022,Thursday,July,Monsoon
+20009,12.09,1,15:05:30,932,886,Buy 1 Get 1,15/07/2022,Friday,July,Monsoon
+20006,77.68,4,18:19:39,849,800,No Promotion,16/07/2022,Saturday,July,Monsoon
+20014,77.04,3,03:49:16,146,145,Buy 1 Get 1,17/07/2022,Sunday,July,Monsoon
+20009,45.38,4,06:47:11,670,612,No Promotion,18/07/2022,Monday,July,Monsoon
+20012,93.31,2,00:14:15,780,874,10% Discount,19/07/2022,Tuesday,July,Monsoon
+20002,52.75,3,03:42:12,296,319,Buy 1 Get 1,20/07/2022,Wednesday,July,Monsoon
+20009,70.01,5,05:40:34,52,54,Buy 1 Get 1,21/07/2022,Thursday,July,Monsoon
+20001,51.34,8,06:22:33,633,589,Buy 1 Get 1,22/07/2022,Friday,July,Monsoon
+20012,34.49,5,15:51:23,174,148,10% Discount,23/07/2022,Saturday,July,Monsoon
+20008,17.14,7,18:45:20,658,662,No Promotion,24/07/2022,Sunday,July,Monsoon
+20008,33.88,8,01:35:40,309,266,Buy 1 Get 1,25/07/2022,Monday,July,Monsoon
+20002,95.42,4,06:23:57,506,452,5% Discount,26/07/2022,Tuesday,July,Monsoon
+20012,79.59,3,19:36:13,678,605,5% Discount,27/07/2022,Wednesday,July,Monsoon
+20011,81.91,2,04:30:34,453,513,Buy 1 Get 1,28/07/2022,Thursday,July,Monsoon
+20009,32.32,10,17:26:00,181,212,Buy 1 Get 1,29/07/2022,Friday,July,Monsoon
+20014,21.58,1,18:08:15,734,615,Buy 1 Get 1,30/07/2022,Saturday,July,Monsoon
+20002,46.66,9,04:17:17,947,839,Buy 1 Get 1,31/07/2022,Sunday,July,Monsoon
+20016,15.55,9,03:24:48,662,813,10% Discount,01/08/2022,Monday,August,Monsoon
+20006,37,1,18:29:00,743,733,Buy 1 Get 1,02/08/2022,Tuesday,August,Monsoon
+20015,72.2,7,10:13:51,250,250,No Promotion,03/08/2022,Wednesday,August,Monsoon
+20002,25.32,8,14:54:33,788,731,10% Discount,04/08/2022,Thursday,August,Monsoon
+20004,63.06,3,16:32:43,661,687,No Promotion,05/08/2022,Friday,August,Monsoon
+20015,44.84,9,01:55:19,397,407,5% Discount,06/08/2022,Saturday,August,Monsoon
+20009,72.04,2,20:40:09,298,318,5% Discount,07/08/2022,Sunday,August,Monsoon
+20009,86.13,2,00:32:35,657,567,No Promotion,08/08/2022,Monday,August,Monsoon
+20007,74.67,9,03:30:11,434,477,5% Discount,09/08/2022,Tuesday,August,Monsoon
+20010,22.17,8,20:17:32,921,844,Buy 1 Get 1,10/08/2022,Wednesday,August,Monsoon
+20010,23.46,6,08:46:55,511,565,10% Discount,11/08/2022,Thursday,August,Monsoon
+20008,81.71,6,14:26:41,526,624,10% Discount,12/08/2022,Friday,August,Monsoon
+20002,38.72,9,18:22:26,306,267,No Promotion,13/08/2022,Saturday,August,Monsoon
+20001,25.84,3,20:33:40,87,87,No Promotion,14/08/2022,Sunday,August,Monsoon
+20015,52.18,7,19:45:04,1034,930,5% Discount,15/08/2022,Monday,August,Monsoon
+20007,13.59,9,18:57:20,503,553,Buy 1 Get 1,16/08/2022,Tuesday,August,Monsoon
+20014,34.84,4,13:34:54,621,521,10% Discount,17/08/2022,Wednesday,August,Monsoon
+20001,19.36,9,08:21:25,743,808,5% Discount,18/08/2022,Thursday,August,Monsoon
+20005,95.58,10,12:17:11,1064,992,Buy 1 Get 1,19/08/2022,Friday,August,Monsoon
+20006,93.18,2,05:03:29,384,471,Buy 1 Get 1,20/08/2022,Saturday,August,Monsoon
+20008,75.88,7,07:55:13,697,778,Buy 1 Get 1,21/08/2022,Sunday,August,Monsoon
+20004,96.58,2,17:26:45,60,71,5% Discount,22/08/2022,Monday,August,Monsoon
+20007,12.05,5,07:59:00,318,385,No Promotion,23/08/2022,Tuesday,August,Monsoon
+20012,99.96,7,09:59:21,561,614,No Promotion,24/08/2022,Wednesday,August,Monsoon
+20007,46.95,5,02:07:35,365,380,No Promotion,25/08/2022,Thursday,August,Monsoon
+20004,53.17,7,21:33:13,919,928,5% Discount,26/08/2022,Friday,August,Monsoon
+20003,46.57,10,05:05:51,244,240,Buy 1 Get 1,27/08/2022,Saturday,August,Monsoon
+20005,30.62,1,22:20:09,265,284,5% Discount,28/08/2022,Sunday,August,Monsoon
+20011,24.82,7,10:32:04,162,198,No Promotion,29/08/2022,Monday,August,Monsoon
+20004,12.29,9,11:07:15,654,767,No Promotion,30/08/2022,Tuesday,August,Monsoon
+20012,87.45,6,12:48:15,94,112,5% Discount,31/08/2022,Wednesday,August,Monsoon
+20009,65.97,8,23:45:08,242,204,5% Discount,01/09/2022,Thursday,September,Monsoon
+20002,40.94,5,19:56:43,393,387,5% Discount,02/09/2022,Friday,September,Monsoon
+20016,44.22,5,04:44:01,495,460,No Promotion,03/09/2022,Saturday,September,Monsoon
+20013,28.31,4,22:25:36,397,458,5% Discount,04/09/2022,Sunday,September,Monsoon
+20016,73.05,10,04:58:20,235,210,No Promotion,05/09/2022,Monday,September,Monsoon
+20012,89.75,1,14:56:47,698,779,No Promotion,06/09/2022,Tuesday,September,Monsoon
+20007,39.9,10,04:46:04,885,788,No Promotion,07/09/2022,Wednesday,September,Monsoon
+20010,40.62,2,22:58:57,523,605,Buy 1 Get 1,08/09/2022,Thursday,September,Monsoon
+20001,81.97,10,20:02:34,795,769,Buy 1 Get 1,09/09/2022,Friday,September,Monsoon
+20006,42.91,5,05:19:51,843,703,No Promotion,10/09/2022,Saturday,September,Monsoon
+20002,39.21,4,01:01:11,159,174,No Promotion,11/09/2022,Sunday,September,Monsoon
+20008,94.47,8,22:49:29,194,201,No Promotion,12/09/2022,Monday,September,Monsoon
+20002,62.82,2,00:45:20,195,222,10% Discount,13/09/2022,Tuesday,September,Monsoon
+20007,12.73,2,10:49:02,204,250,No Promotion,14/09/2022,Wednesday,September,Monsoon
+20006,58.39,7,06:52:56,184,192,No Promotion,15/09/2022,Thursday,September,Monsoon
+20006,72.57,8,01:12:43,733,841,10% Discount,16/09/2022,Friday,September,Monsoon
+20002,42.42,8,14:03:06,613,706,10% Discount,17/09/2022,Saturday,September,Monsoon
+20016,93.96,9,17:39:45,676,661,5% Discount,18/09/2022,Sunday,September,Monsoon
+20016,54.27,5,21:47:42,994,965,Buy 1 Get 1,19/09/2022,Monday,September,Monsoon
+20010,51.71,4,20:44:17,158,167,Buy 1 Get 1,20/09/2022,Tuesday,September,Monsoon
+20012,17.77,5,14:51:03,761,748,5% Discount,21/09/2022,Wednesday,September,Monsoon
+20016,69.74,10,11:39:29,913,847,Buy 1 Get 1,22/09/2022,Thursday,September,Monsoon
+20011,51.54,5,12:57:22,988,933,Buy 1 Get 1,23/09/2022,Friday,September,Monsoon
+20013,10.16,5,19:28:51,788,707,5% Discount,24/09/2022,Saturday,September,Monsoon
+20010,73.52,2,22:31:37,895,949,5% Discount,25/09/2022,Sunday,September,Monsoon
+20007,99.79,2,15:18:31,119,103,5% Discount,26/09/2022,Monday,September,Monsoon
+20015,33.63,1,02:25:07,451,546,No Promotion,27/09/2022,Tuesday,September,Monsoon
+20001,49.92,2,23:32:19,471,525,No Promotion,28/09/2022,Wednesday,September,Monsoon
+20002,57.34,3,01:29:54,341,380,No Promotion,29/09/2022,Thursday,September,Monsoon
+20011,39.43,6,02:43:31,208,184,No Promotion,30/09/2022,Friday,September,Monsoon
+20009,97.5,10,15:22:24,519,469,5% Discount,01/10/2022,Saturday,October,Monsoon
+20006,56,3,03:38:38,639,645,5% Discount,02/10/2022,Sunday,October,Monsoon
+20003,22.38,1,12:00:03,366,410,No Promotion,03/10/2022,Monday,October,Monsoon
+20012,99.3,10,02:53:04,481,502,10% Discount,04/10/2022,Tuesday,October,Monsoon
+20006,87.16,2,08:48:24,223,239,10% Discount,05/10/2022,Wednesday,October,Monsoon
+20010,28.45,5,12:15:58,376,464,10% Discount,06/10/2022,Thursday,October,Monsoon
+20001,35.89,1,07:31:30,347,302,5% Discount,07/10/2022,Friday,October,Monsoon
+20002,49.49,4,16:43:15,907,978,Buy 1 Get 1,08/10/2022,Saturday,October,Monsoon
+20016,14.48,4,10:12:13,528,516,Buy 1 Get 1,09/10/2022,Sunday,October,Monsoon
+20013,13.98,1,11:14:00,361,450,5% Discount,10/10/2022,Monday,October,Monsoon
+20001,92.13,6,08:01:48,672,697,5% Discount,11/10/2022,Tuesday,October,Monsoon
+20012,25.42,8,10:02:36,921,847,Buy 1 Get 1,12/10/2022,Wednesday,October,Monsoon
+20016,49.33,10,15:02:09,562,653,10% Discount,13/10/2022,Thursday,October,Monsoon
+20015,73.41,3,11:04:25,54,61,10% Discount,14/10/2022,Friday,October,Monsoon
+20005,31.67,8,17:19:21,117,125,No Promotion,15/10/2022,Saturday,October,Monsoon
+20012,40.35,1,18:34:12,640,734,Buy 1 Get 1,16/10/2022,Sunday,October,Monsoon
+20012,99.16,8,00:03:25,457,520,5% Discount,17/10/2022,Monday,October,Monsoon
+20011,93.22,3,21:01:35,552,502,Buy 1 Get 1,18/10/2022,Tuesday,October,Monsoon
+20006,72.78,10,16:00:07,818,713,10% Discount,19/10/2022,Wednesday,October,Monsoon
+20016,88.15,3,23:15:53,655,594,10% Discount,20/10/2022,Thursday,October,Monsoon
+20006,63.91,8,21:48:40,57,64,Buy 1 Get 1,21/10/2022,Friday,October,Monsoon
+20016,72.39,2,18:43:27,702,840,10% Discount,22/10/2022,Saturday,October,Monsoon
+20002,75.2,3,13:56:42,271,238,No Promotion,23/10/2022,Sunday,October,Monsoon
+20011,15.87,10,03:32:31,291,291,5% Discount,24/10/2022,Monday,October,Monsoon
+20008,65.23,10,10:07:57,419,504,10% Discount,25/10/2022,Tuesday,October,Monsoon
+20016,26.61,2,20:32:28,934,963,No Promotion,26/10/2022,Wednesday,October,Monsoon
+20013,75.92,8,15:45:19,756,916,Buy 1 Get 1,27/10/2022,Thursday,October,Monsoon
+20005,37.69,2,21:14:38,805,964,Buy 1 Get 1,28/10/2022,Friday,October,Monsoon
+20004,34.56,7,02:01:36,828,979,10% Discount,29/10/2022,Saturday,October,Monsoon
+20006,44.02,10,06:32:24,167,179,10% Discount,30/10/2022,Sunday,October,Monsoon
+20016,81.4,3,16:12:58,1032,876,No Promotion,31/10/2022,Monday,October,Monsoon
+20011,77.5,5,21:43:35,732,865,No Promotion,01/11/2022,Tuesday,November,Winter
+20011,22.96,1,01:20:24,306,295,Buy 1 Get 1,02/11/2022,Wednesday,November,Winter
+20007,57.59,6,05:40:41,756,873,Buy 1 Get 1,03/11/2022,Thursday,November,Winter
+20004,16.28,1,11:51:03,604,658,10% Discount,04/11/2022,Friday,November,Winter
+20014,21.04,4,03:02:43,286,273,No Promotion,05/11/2022,Saturday,November,Winter
+20009,32.71,5,08:34:26,513,456,Buy 1 Get 1,06/11/2022,Sunday,November,Winter
+20003,62.62,5,19:06:04,818,906,10% Discount,07/11/2022,Monday,November,Winter
+20007,59.59,4,17:35:32,689,820,5% Discount,08/11/2022,Tuesday,November,Winter
+20002,85.98,8,15:01:02,761,868,10% Discount,09/11/2022,Wednesday,November,Winter
+20001,24.89,9,12:29:03,312,326,10% Discount,10/11/2022,Thursday,November,Winter
+20002,34.31,8,13:40:09,436,510,No Promotion,11/11/2022,Friday,November,Winter
+20007,79.93,6,18:08:27,461,398,No Promotion,12/11/2022,Saturday,November,Winter
+20015,45.71,3,21:50:39,873,903,Buy 1 Get 1,13/11/2022,Sunday,November,Winter
+20013,55.45,1,18:01:31,598,740,5% Discount,14/11/2022,Monday,November,Winter
+20003,21.8,8,16:08:30,234,264,5% Discount,15/11/2022,Tuesday,November,Winter
+20007,63.69,1,15:49:36,760,921,5% Discount,16/11/2022,Wednesday,November,Winter
+20005,58.03,2,12:18:34,786,927,No Promotion,17/11/2022,Thursday,November,Winter
+20011,38.81,4,21:59:55,293,245,5% Discount,18/11/2022,Friday,November,Winter
+20008,68.71,3,05:53:20,504,464,5% Discount,19/11/2022,Saturday,November,Winter
+20012,35.79,9,06:04:37,585,551,10% Discount,20/11/2022,Sunday,November,Winter
+20002,79.91,3,19:53:52,804,955,5% Discount,21/11/2022,Monday,November,Winter
+20004,26.6,6,14:05:18,751,912,Buy 1 Get 1,22/11/2022,Tuesday,November,Winter
+20007,73.96,1,19:29:38,121,103,No Promotion,23/11/2022,Wednesday,November,Winter
+20014,81.2,7,10:08:57,747,748,No Promotion,24/11/2022,Thursday,November,Winter
+20010,39.12,1,11:32:54,299,329,5% Discount,25/11/2022,Friday,November,Winter
+20009,92.29,5,14:18:50,392,456,10% Discount,26/11/2022,Saturday,November,Winter
+20015,22.01,4,18:27:23,430,494,No Promotion,27/11/2022,Sunday,November,Winter
+20010,92.49,5,17:44:13,759,935,10% Discount,28/11/2022,Monday,November,Winter
+20010,74.51,6,18:56:33,161,169,No Promotion,29/11/2022,Tuesday,November,Winter
+20007,34.37,10,08:36:27,654,712,10% Discount,30/11/2022,Wednesday,November,Winter
+20014,39.47,2,04:38:56,659,709,5% Discount,01/12/2022,Thursday,December,Winter
+20015,37.15,7,06:57:23,838,842,10% Discount,02/12/2022,Friday,December,Winter
+20002,50.45,6,23:01:14,762,705,No Promotion,03/12/2022,Saturday,December,Winter
+20010,41.5,4,04:05:48,202,220,No Promotion,04/12/2022,Sunday,December,Winter
+20015,18.85,10,08:49:08,173,148,Buy 1 Get 1,05/12/2022,Monday,December,Winter
+20004,31.99,10,19:43:17,534,451,5% Discount,06/12/2022,Tuesday,December,Winter
+20007,97.61,6,12:08:32,322,395,10% Discount,07/12/2022,Wednesday,December,Winter
+20002,79.86,7,07:56:13,351,395,5% Discount,08/12/2022,Thursday,December,Winter
+20007,88.39,9,14:30:27,360,443,10% Discount,09/12/2022,Friday,December,Winter
+20013,33.47,2,14:44:28,888,826,No Promotion,10/12/2022,Saturday,December,Winter
+20007,60.3,1,03:56:39,113,107,No Promotion,11/12/2022,Sunday,December,Winter
+20008,91.54,4,22:43:53,743,829,Buy 1 Get 1,12/12/2022,Monday,December,Winter
+20013,51.47,1,23:47:16,139,141,Buy 1 Get 1,13/12/2022,Tuesday,December,Winter
+20008,15.95,6,07:16:26,659,561,No Promotion,14/12/2022,Wednesday,December,Winter
+20004,80.48,3,00:24:43,212,210,Buy 1 Get 1,15/12/2022,Thursday,December,Winter
+20010,90.02,8,21:33:46,276,276,Buy 1 Get 1,16/12/2022,Friday,December,Winter
+20008,55.67,2,19:33:32,76,65,5% Discount,17/12/2022,Saturday,December,Winter
+20007,87.08,7,05:37:45,364,454,5% Discount,18/12/2022,Sunday,December,Winter
+20012,30.68,3,02:14:57,117,102,5% Discount,19/12/2022,Monday,December,Winter
+20013,52.42,1,06:17:31,237,235,5% Discount,20/12/2022,Tuesday,December,Winter
+20016,52.35,1,18:11:37,326,278,No Promotion,21/12/2022,Wednesday,December,Winter
+20010,82.34,10,21:00:06,202,194,10% Discount,22/12/2022,Thursday,December,Winter
+20005,83.17,6,03:53:40,96,100,Buy 1 Get 1,23/12/2022,Friday,December,Winter
+20002,37.02,6,00:56:15,696,784,5% Discount,24/12/2022,Saturday,December,Winter
+20012,78.13,10,06:13:15,970,981,10% Discount,25/12/2022,Sunday,December,Winter
+20011,55.39,4,05:17:03,365,445,10% Discount,26/12/2022,Monday,December,Winter
+20007,15.28,5,02:55:07,507,485,10% Discount,27/12/2022,Tuesday,December,Winter
+20008,40.23,7,23:45:26,179,173,5% Discount,28/12/2022,Wednesday,December,Winter
+20008,13.5,10,03:52:56,793,701,5% Discount,29/12/2022,Thursday,December,Winter
+20015,33.2,2,15:17:11,848,819,No Promotion,30/12/2022,Friday,December,Winter
+20005,91.41,5,08:53:56,225,239,Buy 1 Get 1,31/12/2022,Saturday,December,Winter
+20014,83.06,7,23:38:57,41,51,Buy 1 Get 1,01/01/2023,Sunday,January,Winter
+20010,24.49,10,05:53:58,197,219,5% Discount,02/01/2023,Monday,January,Winter
+20002,10.08,7,17:49:40,313,291,5% Discount,03/01/2023,Tuesday,January,Winter
+20016,62.85,4,08:51:57,208,195,No Promotion,04/01/2023,Wednesday,January,Winter
+20013,69.96,8,10:35:57,97,102,10% Discount,05/01/2023,Thursday,January,Winter
+20006,15.37,2,15:43:37,708,832,10% Discount,06/01/2023,Friday,January,Winter
+20015,28.96,1,12:57:36,153,143,No Promotion,07/01/2023,Saturday,January,Winter
+20006,93.2,2,00:05:58,1009,868,Buy 1 Get 1,08/01/2023,Sunday,January,Winter
+20004,15.69,3,22:28:51,796,724,5% Discount,09/01/2023,Monday,January,Winter
+20011,30.61,1,00:05:35,133,118,Buy 1 Get 1,10/01/2023,Tuesday,January,Winter
+20008,88.63,3,13:42:40,527,541,Buy 1 Get 1,11/01/2023,Wednesday,January,Winter
+20007,98.21,3,23:50:13,376,387,No Promotion,12/01/2023,Thursday,January,Winter
+20006,51.92,5,00:17:20,339,329,No Promotion,13/01/2023,Friday,January,Winter
+20014,88.61,1,05:32:53,215,247,10% Discount,14/01/2023,Saturday,January,Winter
+20014,66.06,6,06:49:11,416,399,No Promotion,15/01/2023,Sunday,January,Winter
+20005,46.33,7,02:48:25,858,910,5% Discount,16/01/2023,Monday,January,Winter
+20013,40.61,9,09:58:16,341,333,5% Discount,17/01/2023,Tuesday,January,Winter
+20011,60.47,3,11:56:56,133,123,Buy 1 Get 1,18/01/2023,Wednesday,January,Winter
+20011,58.32,2,03:42:51,64,57,Buy 1 Get 1,19/01/2023,Thursday,January,Winter
+20005,30.61,6,04:38:53,188,216,5% Discount,20/01/2023,Friday,January,Winter
+20011,98.97,9,00:14:26,836,799,5% Discount,21/01/2023,Saturday,January,Winter
+20009,75.53,4,09:24:08,158,148,Buy 1 Get 1,22/01/2023,Sunday,January,Winter
+20003,89.21,9,19:10:39,94,95,10% Discount,23/01/2023,Monday,January,Winter
+20007,63.56,10,16:43:58,540,467,No Promotion,24/01/2023,Tuesday,January,Winter
+20011,69.58,9,20:26:17,472,425,10% Discount,25/01/2023,Wednesday,January,Winter
+20013,84.61,10,18:37:21,426,397,10% Discount,26/01/2023,Thursday,January,Winter
+20006,74.79,5,23:35:26,621,560,5% Discount,27/01/2023,Friday,January,Winter
+20005,57.29,6,21:56:09,987,970,10% Discount,28/01/2023,Saturday,January,Winter
+20002,63.88,8,17:55:47,1079,940,Buy 1 Get 1,29/01/2023,Sunday,January,Winter
+20003,48.52,3,01:16:08,486,416,Buy 1 Get 1,30/01/2023,Monday,January,Winter
+20012,18.28,1,08:17:20,774,669,No Promotion,31/01/2023,Tuesday,January,Winter
+20002,93.14,2,00:13:42,825,759,5% Discount,01/02/2023,Wednesday,February,Winter
+20011,89.48,5,14:12:04,854,758,10% Discount,02/02/2023,Thursday,February,Winter
+20008,74.66,4,10:14:57,887,758,10% Discount,03/02/2023,Friday,February,Winter
+20009,26.26,7,10:24:32,453,471,No Promotion,04/02/2023,Saturday,February,Winter
+20008,32.25,4,22:07:36,272,317,10% Discount,05/02/2023,Sunday,February,Winter
+20014,43,4,03:14:25,529,506,No Promotion,06/02/2023,Monday,February,Winter
+20014,39.91,3,12:15:09,350,423,5% Discount,07/02/2023,Tuesday,February,Winter
+20005,44.63,6,12:49:50,607,702,10% Discount,08/02/2023,Wednesday,February,Winter
+20011,35.81,5,02:10:50,159,168,10% Discount,09/02/2023,Thursday,February,Winter
+20013,17.04,4,06:59:12,244,221,5% Discount,10/02/2023,Friday,February,Winter
+20014,77.4,9,17:19:04,732,749,Buy 1 Get 1,11/02/2023,Saturday,February,Winter
+20012,53.21,8,15:05:54,510,560,5% Discount,12/02/2023,Sunday,February,Winter
+20003,26.43,8,18:05:20,757,850,5% Discount,13/02/2023,Monday,February,Winter
+20003,64.08,7,12:59:33,493,439,10% Discount,14/02/2023,Tuesday,February,Winter
+20006,50.49,9,05:37:28,948,828,No Promotion,15/02/2023,Wednesday,February,Winter
+20010,88.34,7,07:02:43,511,498,5% Discount,16/02/2023,Thursday,February,Winter
+20009,73.82,4,11:11:57,274,308,No Promotion,17/02/2023,Friday,February,Winter
+20007,25.9,10,05:41:51,846,888,5% Discount,18/02/2023,Saturday,February,Winter
+20001,81.3,6,20:25:48,180,188,5% Discount,19/02/2023,Sunday,February,Winter
+20002,11.85,8,02:12:38,666,580,5% Discount,20/02/2023,Monday,February,Winter
+20014,35.68,5,01:20:58,587,712,5% Discount,21/02/2023,Tuesday,February,Winter
+20009,93.4,2,22:42:50,480,446,Buy 1 Get 1,22/02/2023,Wednesday,February,Winter
+20006,63.61,5,16:56:01,293,351,5% Discount,23/02/2023,Thursday,February,Winter
+20006,99.83,6,13:42:17,676,721,5% Discount,24/02/2023,Friday,February,Winter
+20013,52.38,1,05:09:16,471,500,5% Discount,25/02/2023,Saturday,February,Winter
+20001,34.42,6,21:28:00,76,96,Buy 1 Get 1,26/02/2023,Sunday,February,Winter
+20002,12.1,8,05:06:42,578,708,5% Discount,27/02/2023,Monday,February,Winter
+20010,74.89,4,16:21:17,841,927,No Promotion,28/02/2023,Tuesday,February,Winter
+20010,75.66,5,19:41:31,549,524,10% Discount,01/03/2023,Wednesday,March,Summer
+20011,48.91,5,00:59:31,480,437,No Promotion,02/03/2023,Thursday,March,Summer
+20014,87.1,10,13:54:05,948,884,No Promotion,03/03/2023,Friday,March,Summer
+20007,95.54,4,11:30:51,178,158,No Promotion,04/03/2023,Saturday,March,Summer
+20001,14.36,10,12:07:51,611,674,No Promotion,05/03/2023,Sunday,March,Summer
+20009,14.82,3,02:58:19,492,496,No Promotion,06/03/2023,Monday,March,Summer
+20016,83.66,5,07:25:09,450,422,5% Discount,07/03/2023,Tuesday,March,Summer
+20008,96.8,3,20:47:13,751,753,5% Discount,08/03/2023,Wednesday,March,Summer
+20002,74.1,1,11:43:17,439,436,Buy 1 Get 1,09/03/2023,Thursday,March,Summer
+20016,12.19,8,12:17:25,466,464,Buy 1 Get 1,10/03/2023,Friday,March,Summer
+20002,83.34,2,02:10:12,332,282,No Promotion,11/03/2023,Saturday,March,Summer
+20016,21.52,6,01:58:19,853,978,5% Discount,12/03/2023,Sunday,March,Summer
+20003,74.22,10,05:25:14,159,140,5% Discount,13/03/2023,Monday,March,Summer
+20001,42.57,8,07:08:32,597,662,Buy 1 Get 1,14/03/2023,Tuesday,March,Summer
+20004,59.77,2,17:12:34,239,274,No Promotion,15/03/2023,Wednesday,March,Summer
+20013,98.09,9,23:09:37,505,619,No Promotion,16/03/2023,Thursday,March,Summer
+20014,48.71,1,11:34:13,805,865,5% Discount,17/03/2023,Friday,March,Summer
+20010,15.62,8,00:00:27,239,241,5% Discount,18/03/2023,Saturday,March,Summer
+20007,60.96,2,03:06:53,156,153,No Promotion,19/03/2023,Sunday,March,Summer
+20005,23.08,6,21:09:49,594,654,Buy 1 Get 1,20/03/2023,Monday,March,Summer
+20002,34.81,1,00:50:26,869,898,5% Discount,21/03/2023,Tuesday,March,Summer
+20006,99.42,4,23:18:52,353,302,Buy 1 Get 1,22/03/2023,Wednesday,March,Summer
+20004,20.97,5,09:34:49,685,719,No Promotion,23/03/2023,Thursday,March,Summer
+20005,58.15,4,16:59:37,483,486,10% Discount,24/03/2023,Friday,March,Summer
+20009,38.27,2,21:58:46,532,510,10% Discount,25/03/2023,Saturday,March,Summer
+20016,78.55,9,09:13:48,271,320,Buy 1 Get 1,26/03/2023,Sunday,March,Summer
+20008,75.59,9,08:33:38,73,78,5% Discount,27/03/2023,Monday,March,Summer
+20007,95.15,1,07:37:57,636,549,No Promotion,28/03/2023,Tuesday,March,Summer
+20007,58.9,8,09:02:05,901,879,5% Discount,29/03/2023,Wednesday,March,Summer
+20015,32.62,4,23:34:25,588,546,Buy 1 Get 1,30/03/2023,Thursday,March,Summer
+20006,62.08,7,17:40:48,451,555,Buy 1 Get 1,31/03/2023,Friday,March,Summer
+20016,12.78,1,21:00:53,453,422,No Promotion,01/04/2023,Saturday,April,Summer
+20002,75.88,1,21:44:41,731,621,Buy 1 Get 1,02/04/2023,Sunday,April,Summer
+20014,19.15,1,22:24:28,132,148,5% Discount,03/04/2023,Monday,April,Summer
+20002,71.68,3,15:16:57,725,661,Buy 1 Get 1,04/04/2023,Tuesday,April,Summer
+20002,36.91,7,00:57:14,381,434,10% Discount,05/04/2023,Wednesday,April,Summer
+20016,62.87,2,14:07:07,668,747,No Promotion,06/04/2023,Thursday,April,Summer
+20005,37.06,4,18:45:46,366,434,10% Discount,07/04/2023,Friday,April,Summer
+20011,80.05,5,22:23:45,250,267,No Promotion,08/04/2023,Saturday,April,Summer
+20005,20.77,4,05:32:28,560,656,No Promotion,09/04/2023,Sunday,April,Summer
+20005,49.79,4,18:02:59,291,269,5% Discount,10/04/2023,Monday,April,Summer
+20002,88.25,9,21:12:55,1066,974,No Promotion,11/04/2023,Tuesday,April,Summer
+20004,91.4,7,13:55:54,274,293,10% Discount,12/04/2023,Wednesday,April,Summer
+20003,58.95,10,08:47:16,690,803,No Promotion,13/04/2023,Thursday,April,Summer
+20004,58.91,7,03:55:34,482,541,10% Discount,14/04/2023,Friday,April,Summer
+20015,99.82,2,07:06:28,1132,956,5% Discount,15/04/2023,Saturday,April,Summer
+20004,86.69,5,03:47:13,1141,995,5% Discount,16/04/2023,Sunday,April,Summer
+20003,62,8,20:04:36,122,132,Buy 1 Get 1,17/04/2023,Monday,April,Summer
+20016,94.26,4,19:30:18,569,600,10% Discount,18/04/2023,Tuesday,April,Summer
+20004,31.9,1,23:34:11,640,555,No Promotion,19/04/2023,Wednesday,April,Summer
+20003,58.75,6,16:18:35,351,317,Buy 1 Get 1,20/04/2023,Thursday,April,Summer
+20015,97.29,8,13:10:47,203,193,5% Discount,21/04/2023,Friday,April,Summer
+20009,35.47,4,09:25:42,109,130,10% Discount,22/04/2023,Saturday,April,Summer
+20010,20.87,3,15:10:12,564,530,5% Discount,23/04/2023,Sunday,April,Summer
+20001,92.6,7,23:24:15,499,568,Buy 1 Get 1,24/04/2023,Monday,April,Summer
+20016,73.06,7,15:27:00,658,657,Buy 1 Get 1,25/04/2023,Tuesday,April,Summer
+20015,13.69,6,22:43:26,160,193,10% Discount,26/04/2023,Wednesday,April,Summer
+20007,60.08,7,03:43:02,972,836,No Promotion,27/04/2023,Thursday,April,Summer
+20011,36.77,7,04:05:37,313,328,5% Discount,28/04/2023,Friday,April,Summer
+20011,78.88,2,05:51:31,57,72,Buy 1 Get 1,29/04/2023,Saturday,April,Summer
+20010,95.46,8,23:00:55,574,614,10% Discount,30/04/2023,Sunday,April,Summer
+20004,38.54,5,01:55:24,230,222,10% Discount,01/05/2023,Monday,May,Summer
+20002,75.06,9,04:00:11,892,856,No Promotion,02/05/2023,Tuesday,May,Summer
+20005,82.7,6,01:37:03,806,912,Buy 1 Get 1,03/05/2023,Wednesday,May,Summer
+20010,64.27,4,05:57:38,126,107,5% Discount,04/05/2023,Thursday,May,Summer
+20007,84.25,2,11:22:03,906,926,No Promotion,05/05/2023,Friday,May,Summer
+20014,10.59,3,01:08:36,757,677,10% Discount,06/05/2023,Saturday,May,Summer
+20015,15.5,1,04:34:27,840,876,No Promotion,07/05/2023,Sunday,May,Summer
+20009,35.19,10,00:36:35,227,282,No Promotion,08/05/2023,Monday,May,Summer
+20010,33.64,8,10:11:55,546,656,Buy 1 Get 1,09/05/2023,Tuesday,May,Summer
+20005,51.28,6,21:57:03,718,692,No Promotion,10/05/2023,Wednesday,May,Summer
+20009,20.85,8,23:00:11,646,552,10% Discount,11/05/2023,Thursday,May,Summer
+20001,54.84,3,03:10:17,174,171,Buy 1 Get 1,12/05/2023,Friday,May,Summer
+20002,61.41,7,15:10:34,242,209,10% Discount,13/05/2023,Saturday,May,Summer
+20011,45.35,6,08:20:47,756,689,5% Discount,14/05/2023,Sunday,May,Summer
+20003,78.07,9,12:45:26,582,509,5% Discount,15/05/2023,Monday,May,Summer
+20009,55.73,6,03:05:41,370,437,5% Discount,16/05/2023,Tuesday,May,Summer
+20010,60.88,9,02:53:50,600,610,Buy 1 Get 1,17/05/2023,Wednesday,May,Summer
+20004,33.84,9,18:30:09,781,920,10% Discount,18/05/2023,Thursday,May,Summer
+20011,16.45,4,08:25:34,421,435,Buy 1 Get 1,19/05/2023,Friday,May,Summer
+20008,61.77,5,11:29:49,463,538,10% Discount,20/05/2023,Saturday,May,Summer
+20010,30.24,1,15:17:04,326,282,No Promotion,21/05/2023,Sunday,May,Summer
+20004,16.31,9,07:36:23,697,731,No Promotion,22/05/2023,Monday,May,Summer
+20016,26.31,5,11:42:56,735,642,No Promotion,23/05/2023,Tuesday,May,Summer
+20010,14.76,2,17:36:42,514,507,10% Discount,24/05/2023,Wednesday,May,Summer
+20012,30.12,8,05:38:50,107,108,10% Discount,25/05/2023,Thursday,May,Summer
+20009,93.87,8,04:05:30,703,733,No Promotion,26/05/2023,Friday,May,Summer
+20002,59.86,2,10:15:32,182,199,5% Discount,27/05/2023,Saturday,May,Summer
+20001,99.56,8,23:31:04,485,542,No Promotion,28/05/2023,Sunday,May,Summer
+20012,33.3,9,20:43:48,1081,978,10% Discount,29/05/2023,Monday,May,Summer
+20016,21.43,10,11:40:05,1098,935,5% Discount,30/05/2023,Tuesday,May,Summer
+20006,67.26,4,08:16:06,847,737,5% Discount,31/05/2023,Wednesday,May,Summer
+20013,47.97,7,09:23:59,225,274,10% Discount,01/06/2023,Thursday,June,Summer
+20010,51.94,10,02:54:52,444,408,10% Discount,02/06/2023,Friday,June,Summer
+20012,77.02,5,10:47:10,450,522,Buy 1 Get 1,03/06/2023,Saturday,June,Summer
+20008,89.06,6,08:53:48,213,262,No Promotion,04/06/2023,Sunday,June,Summer
+20001,54.67,3,21:59:09,631,713,No Promotion,05/06/2023,Monday,June,Summer
+20003,99.24,9,16:24:11,97,98,Buy 1 Get 1,06/06/2023,Tuesday,June,Summer
+20009,83.24,9,04:39:21,85,82,10% Discount,07/06/2023,Wednesday,June,Summer
+20015,90.28,9,13:45:28,327,393,5% Discount,08/06/2023,Thursday,June,Summer
+20014,21.48,2,02:53:44,791,825,5% Discount,09/06/2023,Friday,June,Summer
+20014,37.48,3,21:50:53,783,705,10% Discount,10/06/2023,Saturday,June,Summer
+20004,19.24,9,16:20:52,467,441,10% Discount,11/06/2023,Sunday,June,Summer
+20010,43.18,8,19:39:48,625,733,Buy 1 Get 1,12/06/2023,Monday,June,Summer
+20014,78.89,7,21:27:50,297,305,10% Discount,13/06/2023,Tuesday,June,Summer
+20006,65.31,7,23:58:05,224,272,10% Discount,14/06/2023,Wednesday,June,Summer
+20015,21.12,8,05:25:55,452,418,10% Discount,15/06/2023,Thursday,June,Summer
+20005,23.01,6,09:40:01,920,844,10% Discount,16/06/2023,Friday,June,Summer
+20013,48.5,6,09:55:39,81,84,10% Discount,17/06/2023,Saturday,June,Summer
+20007,25.31,2,01:51:40,1103,958,No Promotion,18/06/2023,Sunday,June,Summer
+20015,68.93,7,06:07:08,156,149,5% Discount,19/06/2023,Monday,June,Summer
+20011,18.93,6,22:56:44,977,925,Buy 1 Get 1,20/06/2023,Tuesday,June,Summer
+20001,74.86,1,05:10:30,290,296,10% Discount,21/06/2023,Wednesday,June,Summer
+20007,17.48,6,07:31:19,766,829,No Promotion,22/06/2023,Thursday,June,Summer
+20012,12.12,10,03:30:50,756,808,5% Discount,23/06/2023,Friday,June,Summer
+20006,54.73,7,11:58:00,184,209,Buy 1 Get 1,24/06/2023,Saturday,June,Summer
+20015,51.52,8,00:14:02,532,574,Buy 1 Get 1,25/06/2023,Sunday,June,Summer
+20004,33.98,9,17:18:02,785,774,No Promotion,26/06/2023,Monday,June,Summer
+20005,21.87,2,08:09:37,773,799,5% Discount,27/06/2023,Tuesday,June,Summer
+20013,39.01,1,23:00:08,481,560,5% Discount,28/06/2023,Wednesday,June,Summer
+20007,45.38,3,00:18:39,96,86,Buy 1 Get 1,29/06/2023,Thursday,June,Summer
+20002,87.98,3,19:42:36,336,358,10% Discount,30/06/2023,Friday,June,Summer
+20016,71.46,7,11:44:37,246,239,5% Discount,01/07/2023,Saturday,July,Monsoon
+20005,24.94,9,03:03:23,681,726,10% Discount,02/07/2023,Sunday,July,Monsoon
+20001,69.08,2,17:17:38,766,865,10% Discount,03/07/2023,Monday,July,Monsoon
+20012,46.42,3,03:11:12,885,845,No Promotion,04/07/2023,Tuesday,July,Monsoon
+20014,17.42,10,18:48:15,792,900,Buy 1 Get 1,05/07/2023,Wednesday,July,Monsoon
+20006,74.71,6,03:30:39,412,398,10% Discount,06/07/2023,Thursday,July,Monsoon
+20013,17.94,5,19:06:14,364,423,No Promotion,07/07/2023,Friday,July,Monsoon
+20015,49.1,2,14:10:25,1158,971,10% Discount,08/07/2023,Saturday,July,Monsoon
+20012,81.23,7,06:36:29,805,784,No Promotion,09/07/2023,Sunday,July,Monsoon
+20003,78.31,10,18:50:14,74,84,No Promotion,10/07/2023,Monday,July,Monsoon
+20012,62.13,6,18:16:44,287,345,5% Discount,11/07/2023,Tuesday,July,Monsoon
+20003,47.38,4,23:37:26,882,871,10% Discount,12/07/2023,Wednesday,July,Monsoon
+20007,71.89,8,11:20:18,636,637,Buy 1 Get 1,13/07/2023,Thursday,July,Monsoon
+20008,82.04,5,23:10:03,530,523,5% Discount,14/07/2023,Friday,July,Monsoon
+20002,97.48,9,05:40:17,64,72,10% Discount,15/07/2023,Saturday,July,Monsoon
+20001,98.7,8,17:42:23,621,749,No Promotion,16/07/2023,Sunday,July,Monsoon
+20008,88.31,1,17:04:35,869,781,No Promotion,17/07/2023,Monday,July,Monsoon
+20010,14.7,5,04:29:07,212,200,No Promotion,18/07/2023,Tuesday,July,Monsoon
+20016,90.22,3,16:57:40,650,548,Buy 1 Get 1,19/07/2023,Wednesday,July,Monsoon
+20006,76.4,2,05:21:32,553,596,5% Discount,20/07/2023,Thursday,July,Monsoon
+20004,57.74,3,20:32:19,260,217,No Promotion,21/07/2023,Friday,July,Monsoon
+20008,43.7,2,10:48:26,758,798,5% Discount,22/07/2023,Saturday,July,Monsoon
+20006,52.26,10,18:16:48,360,447,5% Discount,23/07/2023,Sunday,July,Monsoon
+20013,98.79,3,13:18:42,438,374,No Promotion,24/07/2023,Monday,July,Monsoon
+20016,90.65,10,22:39:40,959,878,Buy 1 Get 1,25/07/2023,Tuesday,July,Monsoon
+20008,42.97,3,01:39:42,442,476,5% Discount,26/07/2023,Wednesday,July,Monsoon
+20012,67.99,7,16:21:31,96,91,No Promotion,27/07/2023,Thursday,July,Monsoon
+20011,93.39,6,10:17:37,138,148,Buy 1 Get 1,28/07/2023,Friday,July,Monsoon
+20013,10.53,5,23:54:37,810,845,No Promotion,29/07/2023,Saturday,July,Monsoon
+20008,81.01,3,15:39:49,741,659,Buy 1 Get 1,30/07/2023,Sunday,July,Monsoon
+20012,90.5,10,08:59:20,501,428,Buy 1 Get 1,31/07/2023,Monday,July,Monsoon
+20012,21.32,1,07:15:56,430,505,Buy 1 Get 1,01/08/2023,Tuesday,August,Monsoon
+20005,37.95,10,07:43:27,546,629,5% Discount,02/08/2023,Wednesday,August,Monsoon
+20014,72.88,2,11:41:54,146,164,10% Discount,03/08/2023,Thursday,August,Monsoon
+20006,74.29,1,02:18:32,273,280,10% Discount,04/08/2023,Friday,August,Monsoon
+20016,80.93,1,18:52:34,218,253,Buy 1 Get 1,05/08/2023,Saturday,August,Monsoon
+20008,31.73,9,22:33:07,771,888,10% Discount,06/08/2023,Sunday,August,Monsoon
+20004,71.92,5,19:03:43,859,776,5% Discount,07/08/2023,Monday,August,Monsoon
+20009,60.01,4,03:10:39,702,659,10% Discount,08/08/2023,Tuesday,August,Monsoon
+20012,54.31,9,17:34:54,817,916,5% Discount,09/08/2023,Wednesday,August,Monsoon
+20016,56.5,1,20:35:10,130,129,10% Discount,10/08/2023,Thursday,August,Monsoon
+20008,46.02,6,04:14:15,908,902,Buy 1 Get 1,11/08/2023,Friday,August,Monsoon
+20002,80.08,3,18:01:36,923,872,No Promotion,12/08/2023,Saturday,August,Monsoon
+20003,42.57,7,14:52:53,215,226,No Promotion,13/08/2023,Sunday,August,Monsoon
+20011,35.22,6,15:03:44,744,773,5% Discount,14/08/2023,Monday,August,Monsoon
+20007,50.79,5,06:13:39,811,847,10% Discount,15/08/2023,Tuesday,August,Monsoon
+20011,57.95,6,05:52:38,589,660,No Promotion,16/08/2023,Wednesday,August,Monsoon
+20013,51.07,7,23:20:24,121,107,5% Discount,17/08/2023,Thursday,August,Monsoon
+20015,24.77,5,05:59:13,674,605,5% Discount,18/08/2023,Friday,August,Monsoon
+20002,74.6,10,22:31:02,893,748,5% Discount,19/08/2023,Saturday,August,Monsoon
+20003,99.69,5,12:53:49,764,945,10% Discount,20/08/2023,Sunday,August,Monsoon
+20015,28.5,8,03:50:26,952,916,5% Discount,21/08/2023,Monday,August,Monsoon
+20001,62.19,4,07:34:23,530,462,10% Discount,22/08/2023,Tuesday,August,Monsoon
+20003,21.94,5,06:42:22,273,266,Buy 1 Get 1,23/08/2023,Wednesday,August,Monsoon
+20013,83.35,2,20:19:57,554,596,10% Discount,24/08/2023,Thursday,August,Monsoon
+20009,99.37,2,05:08:49,463,452,No Promotion,25/08/2023,Friday,August,Monsoon
+20014,26.67,10,03:29:01,172,166,Buy 1 Get 1,26/08/2023,Saturday,August,Monsoon
+20007,37.32,9,09:47:39,1138,957,Buy 1 Get 1,27/08/2023,Sunday,August,Monsoon
+20012,46.22,4,23:43:11,215,244,Buy 1 Get 1,28/08/2023,Monday,August,Monsoon
+20003,69.51,2,11:59:34,781,683,5% Discount,29/08/2023,Tuesday,August,Monsoon
+20002,27.04,4,10:18:15,108,124,5% Discount,30/08/2023,Wednesday,August,Monsoon
+20010,65.94,4,20:19:19,576,559,10% Discount,31/08/2023,Thursday,August,Monsoon
+20007,51.36,1,11:15:05,766,813,10% Discount,01/09/2023,Friday,September,Monsoon
+20001,18.22,7,21:46:45,871,730,5% Discount,02/09/2023,Saturday,September,Monsoon
+20012,63.15,6,02:54:33,710,643,5% Discount,03/09/2023,Sunday,September,Monsoon
+20008,23.07,9,19:25:47,583,505,Buy 1 Get 1,04/09/2023,Monday,September,Monsoon
+20014,62.57,4,14:10:55,815,907,Buy 1 Get 1,05/09/2023,Tuesday,September,Monsoon
+20006,53.19,7,10:45:51,270,239,10% Discount,06/09/2023,Wednesday,September,Monsoon
+20007,34.21,10,12:20:55,82,71,No Promotion,07/09/2023,Thursday,September,Monsoon
+20008,85.39,7,08:05:27,121,121,No Promotion,08/09/2023,Friday,September,Monsoon
+20015,36.51,9,08:09:48,583,557,No Promotion,09/09/2023,Saturday,September,Monsoon
+20008,90.7,6,08:23:00,485,426,Buy 1 Get 1,10/09/2023,Sunday,September,Monsoon
+20012,84.07,4,17:41:34,974,903,10% Discount,11/09/2023,Monday,September,Monsoon
+20004,43.06,5,10:06:54,708,650,5% Discount,12/09/2023,Tuesday,September,Monsoon
+20009,47.67,4,23:25:36,712,759,Buy 1 Get 1,13/09/2023,Wednesday,September,Monsoon
+20014,73.47,4,05:31:13,646,548,10% Discount,14/09/2023,Thursday,September,Monsoon
+20005,96.52,6,17:56:59,95,118,10% Discount,15/09/2023,Friday,September,Monsoon
+20007,12.76,2,17:12:12,176,166,No Promotion,16/09/2023,Saturday,September,Monsoon
+20004,76.92,10,05:45:19,559,562,Buy 1 Get 1,17/09/2023,Sunday,September,Monsoon
+20013,67.09,5,16:18:08,325,276,10% Discount,18/09/2023,Monday,September,Monsoon
+20003,86.27,1,15:57:34,1075,983,5% Discount,19/09/2023,Tuesday,September,Monsoon
+20011,17.97,4,01:47:43,864,891,5% Discount,20/09/2023,Wednesday,September,Monsoon
+20009,72.61,6,16:53:56,996,921,No Promotion,21/09/2023,Thursday,September,Monsoon
+20011,45.48,10,21:44:33,376,351,5% Discount,22/09/2023,Friday,September,Monsoon
+20006,27.5,3,16:08:01,208,257,No Promotion,23/09/2023,Saturday,September,Monsoon
+20009,83.77,6,13:23:34,303,372,10% Discount,24/09/2023,Sunday,September,Monsoon
+20001,56.04,10,12:50:43,373,334,10% Discount,25/09/2023,Monday,September,Monsoon
+20001,30.37,3,21:13:19,737,627,Buy 1 Get 1,26/09/2023,Tuesday,September,Monsoon
+20004,98.48,2,23:22:43,371,397,No Promotion,27/09/2023,Wednesday,September,Monsoon
+20014,21.54,9,09:00:37,619,615,No Promotion,28/09/2023,Thursday,September,Monsoon
+20016,94.88,7,20:55:50,215,252,10% Discount,29/09/2023,Friday,September,Monsoon
+20013,28.84,4,17:58:55,932,886,10% Discount,30/09/2023,Saturday,September,Monsoon
+20006,14.23,5,06:31:35,621,709,No Promotion,01/10/2023,Sunday,October,Monsoon
+20001,27.22,3,11:53:45,631,562,No Promotion,02/10/2023,Monday,October,Monsoon
+20008,68.97,3,12:59:06,798,753,5% Discount,03/10/2023,Tuesday,October,Monsoon
+20014,58.26,6,17:42:48,530,511,No Promotion,04/10/2023,Wednesday,October,Monsoon
+20015,15.5,10,23:54:27,1069,941,10% Discount,05/10/2023,Thursday,October,Monsoon
+20002,62.48,1,11:07:01,435,450,5% Discount,06/10/2023,Friday,October,Monsoon
+20016,70.19,9,01:31:52,773,952,10% Discount,07/10/2023,Saturday,October,Monsoon
+20016,40.26,10,11:55:15,877,882,5% Discount,08/10/2023,Sunday,October,Monsoon
+20001,67.77,1,13:31:50,864,919,No Promotion,09/10/2023,Monday,October,Monsoon
+20012,51.13,4,16:59:13,351,387,Buy 1 Get 1,10/10/2023,Tuesday,October,Monsoon
+20006,65.18,3,07:56:11,393,337,5% Discount,11/10/2023,Wednesday,October,Monsoon
+20014,84.05,6,08:30:40,425,370,No Promotion,12/10/2023,Thursday,October,Monsoon
+20001,30.41,1,04:35:10,554,539,5% Discount,13/10/2023,Friday,October,Monsoon
+20010,54.55,10,09:36:04,60,67,5% Discount,14/10/2023,Saturday,October,Monsoon
+20006,72.88,9,04:05:59,816,984,Buy 1 Get 1,15/10/2023,Sunday,October,Monsoon
+20006,64.08,7,10:23:58,274,302,No Promotion,16/10/2023,Monday,October,Monsoon
+20002,74.07,1,07:24:41,326,290,No Promotion,17/10/2023,Tuesday,October,Monsoon
+20014,83.77,2,08:20:41,1005,947,5% Discount,18/10/2023,Wednesday,October,Monsoon
+20001,96.82,3,11:39:35,871,844,10% Discount,19/10/2023,Thursday,October,Monsoon
+20012,76.82,1,19:32:59,772,850,No Promotion,20/10/2023,Friday,October,Monsoon
+20014,93.38,1,17:26:43,613,683,No Promotion,21/10/2023,Saturday,October,Monsoon
+20008,33.33,2,20:38:54,747,738,5% Discount,22/10/2023,Sunday,October,Monsoon
+20007,27.02,3,01:51:07,1027,971,10% Discount,23/10/2023,Monday,October,Monsoon
+20001,94.13,5,13:21:46,220,210,Buy 1 Get 1,24/10/2023,Tuesday,October,Monsoon
+20013,86.72,1,21:43:45,521,560,5% Discount,25/10/2023,Wednesday,October,Monsoon
+20007,52.89,4,08:06:35,897,853,No Promotion,26/10/2023,Thursday,October,Monsoon
+20005,35.38,9,23:33:07,478,559,No Promotion,27/10/2023,Friday,October,Monsoon
+20015,31.75,4,11:04:27,850,746,Buy 1 Get 1,28/10/2023,Saturday,October,Monsoon
+20011,37.55,10,18:32:40,590,708,10% Discount,29/10/2023,Sunday,October,Monsoon
+20004,45.74,3,16:50:30,889,794,No Promotion,30/10/2023,Monday,October,Monsoon
+20001,10.69,5,01:04:14,562,518,Buy 1 Get 1,31/10/2023,Tuesday,October,Monsoon
+20016,46.41,1,22:20:32,1152,962,No Promotion,01/11/2023,Wednesday,November,Winter
+20011,21.98,7,16:17:38,736,752,No Promotion,02/11/2023,Thursday,November,Winter
+20008,57.89,2,10:43:44,103,96,5% Discount,03/11/2023,Friday,November,Winter
+20001,48.62,8,19:15:09,683,706,10% Discount,04/11/2023,Saturday,November,Winter
+20003,14.87,2,22:44:13,582,525,10% Discount,05/11/2023,Sunday,November,Winter
+20016,57.12,7,21:58:16,75,90,10% Discount,06/11/2023,Monday,November,Winter
+20004,36.36,4,06:56:56,974,921,No Promotion,07/11/2023,Tuesday,November,Winter
+20001,77.47,4,21:54:24,255,214,5% Discount,08/11/2023,Wednesday,November,Winter
+20008,93.12,8,03:42:37,266,227,No Promotion,09/11/2023,Thursday,November,Winter
+20010,76.4,9,07:56:08,308,347,Buy 1 Get 1,10/11/2023,Friday,November,Winter
+20014,35.54,10,13:00:16,43,51,Buy 1 Get 1,11/11/2023,Saturday,November,Winter
+20003,89.8,10,17:53:38,360,338,10% Discount,12/11/2023,Sunday,November,Winter
+20010,16.48,6,01:50:39,88,97,10% Discount,13/11/2023,Monday,November,Winter
+20004,51.19,4,18:46:38,160,193,10% Discount,14/11/2023,Tuesday,November,Winter
+20011,89.69,1,06:59:01,330,367,10% Discount,15/11/2023,Wednesday,November,Winter
+20003,87.87,9,10:27:21,243,212,Buy 1 Get 1,16/11/2023,Thursday,November,Winter
+20016,28.95,7,09:32:43,719,708,No Promotion,17/11/2023,Friday,November,Winter
+20008,63.22,2,09:31:23,802,867,10% Discount,18/11/2023,Saturday,November,Winter
+20014,82.88,5,11:07:09,724,725,10% Discount,19/11/2023,Sunday,November,Winter
+20005,16.49,2,12:21:12,876,798,10% Discount,20/11/2023,Monday,November,Winter
+20008,40.05,4,16:01:43,996,921,Buy 1 Get 1,21/11/2023,Tuesday,November,Winter
+20016,41.28,3,00:08:07,274,231,Buy 1 Get 1,22/11/2023,Wednesday,November,Winter
+20006,93.69,7,10:56:29,99,114,No Promotion,23/11/2023,Thursday,November,Winter
+20004,22.24,10,14:41:14,190,162,No Promotion,24/11/2023,Friday,November,Winter
+20010,87.9,1,15:54:22,659,575,No Promotion,25/11/2023,Saturday,November,Winter
+20007,92.78,1,07:32:53,435,442,No Promotion,26/11/2023,Sunday,November,Winter
+20010,98.13,1,02:32:47,510,457,5% Discount,27/11/2023,Monday,November,Winter
+20007,87.48,6,11:25:13,302,313,No Promotion,28/11/2023,Tuesday,November,Winter
+20005,35.74,8,13:52:14,1011,934,10% Discount,29/11/2023,Wednesday,November,Winter
+20013,71.86,8,08:13:53,242,250,No Promotion,30/11/2023,Thursday,November,Winter
+20014,48.51,7,04:00:46,478,488,10% Discount,01/12/2023,Friday,December,Winter
+20002,29.67,7,16:17:21,192,196,10% Discount,02/12/2023,Saturday,December,Winter
+20006,68.84,6,21:18:25,831,750,Buy 1 Get 1,03/12/2023,Sunday,December,Winter
+20016,48.09,3,16:49:30,162,193,Buy 1 Get 1,04/12/2023,Monday,December,Winter
+20007,97.21,10,11:15:29,307,326,No Promotion,05/12/2023,Tuesday,December,Winter
+20006,27.07,1,01:30:11,92,86,5% Discount,06/12/2023,Wednesday,December,Winter
+20004,15.49,2,16:56:10,976,945,10% Discount,07/12/2023,Thursday,December,Winter
+20001,65.65,2,02:36:17,1075,984,Buy 1 Get 1,08/12/2023,Friday,December,Winter
+20003,60.95,9,20:32:06,1089,926,No Promotion,09/12/2023,Saturday,December,Winter
+20004,68.71,4,06:09:12,969,932,Buy 1 Get 1,10/12/2023,Sunday,December,Winter
+20010,28.86,5,16:00:27,372,447,No Promotion,11/12/2023,Monday,December,Winter
+20006,54.92,8,22:57:38,624,524,5% Discount,12/12/2023,Tuesday,December,Winter
+20004,83.25,10,06:28:31,887,783,No Promotion,13/12/2023,Wednesday,December,Winter
+20005,42.08,6,03:37:04,278,303,Buy 1 Get 1,14/12/2023,Thursday,December,Winter
+20010,79.39,10,01:57:58,144,165,No Promotion,15/12/2023,Friday,December,Winter
+20016,18.08,4,04:53:02,121,145,Buy 1 Get 1,16/12/2023,Saturday,December,Winter
+20001,73.95,4,04:27:37,324,305,10% Discount,17/12/2023,Sunday,December,Winter
+20013,72.52,8,03:37:41,904,841,10% Discount,18/12/2023,Monday,December,Winter
+20002,77.56,10,03:39:38,811,705,5% Discount,19/12/2023,Tuesday,December,Winter
+20003,43.19,10,00:59:45,433,508,10% Discount,20/12/2023,Wednesday,December,Winter
+20016,19.79,8,22:21:53,530,447,Buy 1 Get 1,21/12/2023,Thursday,December,Winter
+20001,57.91,8,05:48:47,526,615,5% Discount,22/12/2023,Friday,December,Winter
+20008,69.12,6,00:54:55,470,525,Buy 1 Get 1,23/12/2023,Saturday,December,Winter
+20010,78.31,3,06:52:54,896,851,Buy 1 Get 1,24/12/2023,Sunday,December,Winter
+20010,46.53,6,04:22:58,829,934,No Promotion,25/12/2023,Monday,December,Winter
+20011,32.32,3,20:56:04,360,326,Buy 1 Get 1,26/12/2023,Tuesday,December,Winter
+20015,52.89,6,00:47:12,923,816,10% Discount,27/12/2023,Wednesday,December,Winter
+20005,73.22,6,13:27:10,190,169,No Promotion,28/12/2023,Thursday,December,Winter
+20003,32.25,5,14:11:33,828,906,No Promotion,29/12/2023,Friday,December,Winter
+20009,94.87,8,18:49:08,783,847,5% Discount,30/12/2023,Saturday,December,Winter
+20003,25,1,04:57:52,268,230,5% Discount,31/12/2023,Sunday,December,Winter
+20011,10.96,10,11:51:47,283,237,Buy 1 Get 1,01/01/2024,Monday,January,Winter
+20005,18.08,3,03:54:30,549,624,Buy 1 Get 1,02/01/2024,Tuesday,January,Winter
+20015,23.75,4,16:46:44,190,162,Buy 1 Get 1,03/01/2024,Wednesday,January,Winter
+20008,47.65,3,20:04:26,333,312,No Promotion,04/01/2024,Thursday,January,Winter
+20008,35.04,9,22:23:12,890,833,Buy 1 Get 1,05/01/2024,Friday,January,Winter
+20011,73.97,1,08:00:57,921,877,5% Discount,06/01/2024,Saturday,January,Winter
+20013,70.21,6,23:09:01,332,307,5% Discount,07/01/2024,Sunday,January,Winter
+20008,62.65,4,22:31:02,292,283,No Promotion,08/01/2024,Monday,January,Winter
+20004,52.59,8,13:17:46,537,463,5% Discount,09/01/2024,Tuesday,January,Winter
+20008,52.6,9,22:43:42,667,675,Buy 1 Get 1,10/01/2024,Wednesday,January,Winter
+20014,20.01,9,20:22:41,523,612,Buy 1 Get 1,11/01/2024,Thursday,January,Winter
+20013,26.48,3,19:26:45,412,375,5% Discount,12/01/2024,Friday,January,Winter
+20010,85.6,7,04:32:05,657,785,10% Discount,13/01/2024,Saturday,January,Winter
+20013,42.82,9,08:46:05,656,813,Buy 1 Get 1,14/01/2024,Sunday,January,Winter
+20007,37.15,4,22:06:38,700,860,No Promotion,15/01/2024,Monday,January,Winter
+20016,90.63,9,18:03:29,598,744,5% Discount,16/01/2024,Tuesday,January,Winter
+20004,64.95,10,16:17:58,188,216,10% Discount,17/01/2024,Wednesday,January,Winter
+20002,80.62,6,13:13:03,627,738,10% Discount,18/01/2024,Thursday,January,Winter
+20003,83.08,1,10:43:29,128,125,10% Discount,19/01/2024,Friday,January,Winter
+20004,70.74,4,08:32:37,183,162,5% Discount,20/01/2024,Saturday,January,Winter
+20008,68.55,4,11:31:42,359,302,5% Discount,21/01/2024,Sunday,January,Winter
+20014,84.05,3,07:17:38,251,275,10% Discount,22/01/2024,Monday,January,Winter
+20014,60.87,1,16:21:03,176,217,Buy 1 Get 1,23/01/2024,Tuesday,January,Winter
+20008,78.38,4,12:13:16,201,171,No Promotion,24/01/2024,Wednesday,January,Winter
+20014,92.36,5,22:01:57,776,695,10% Discount,25/01/2024,Thursday,January,Winter
+20013,22.01,6,11:18:45,515,546,Buy 1 Get 1,26/01/2024,Friday,January,Winter
+20013,33.99,6,05:18:04,61,66,No Promotion,27/01/2024,Saturday,January,Winter
+20012,32.46,8,05:51:42,891,889,Buy 1 Get 1,28/01/2024,Sunday,January,Winter
+20002,65.82,1,12:58:33,417,495,Buy 1 Get 1,29/01/2024,Monday,January,Winter
+20001,31.84,1,17:58:59,889,821,10% Discount,30/01/2024,Tuesday,January,Winter
+20014,15.81,10,21:58:20,322,365,Buy 1 Get 1,31/01/2024,Wednesday,January,Winter
+20001,80.36,4,15:53:09,907,921,Buy 1 Get 1,01/02/2024,Thursday,February,Winter
+20005,49.38,7,13:18:28,667,615,Buy 1 Get 1,02/02/2024,Friday,February,Winter
+20013,55.81,6,19:56:03,737,901,No Promotion,03/02/2024,Saturday,February,Winter
+20016,81.95,10,08:49:57,382,446,Buy 1 Get 1,04/02/2024,Sunday,February,Winter
+20008,97.74,4,21:01:50,1127,985,5% Discount,05/02/2024,Monday,February,Winter
+20003,87.8,9,17:26:46,901,783,Buy 1 Get 1,06/02/2024,Tuesday,February,Winter
+20009,25.25,5,17:34:00,157,182,Buy 1 Get 1,07/02/2024,Wednesday,February,Winter
+20003,10.75,8,21:30:29,451,414,Buy 1 Get 1,08/02/2024,Thursday,February,Winter
+20001,39.75,5,16:21:32,588,689,5% Discount,09/02/2024,Friday,February,Winter
+20015,24.31,3,21:16:10,741,878,No Promotion,10/02/2024,Saturday,February,Winter
+20010,85.87,7,13:00:17,727,742,Buy 1 Get 1,11/02/2024,Sunday,February,Winter
+20008,98.8,2,23:56:48,612,626,Buy 1 Get 1,12/02/2024,Monday,February,Winter
+20016,87.91,5,14:00:10,543,481,Buy 1 Get 1,13/02/2024,Tuesday,February,Winter
+20003,73.26,1,19:44:01,926,944,No Promotion,14/02/2024,Wednesday,February,Winter
+20015,77.95,6,20:57:50,255,280,10% Discount,15/02/2024,Thursday,February,Winter
+20008,55.04,7,18:25:59,259,245,5% Discount,16/02/2024,Friday,February,Winter
+20012,22.32,4,17:27:31,90,111,No Promotion,17/02/2024,Saturday,February,Winter
+20006,85.72,3,05:55:19,1043,932,Buy 1 Get 1,18/02/2024,Sunday,February,Winter
+20002,75.82,1,18:23:22,795,755,Buy 1 Get 1,19/02/2024,Monday,February,Winter
+20001,64.59,4,10:19:40,784,864,Buy 1 Get 1,20/02/2024,Tuesday,February,Winter
+20009,27.38,6,14:31:38,750,751,5% Discount,21/02/2024,Wednesday,February,Winter
+20013,36.85,5,11:30:01,854,910,Buy 1 Get 1,22/02/2024,Thursday,February,Winter
+20016,84.83,1,10:43:31,459,494,Buy 1 Get 1,23/02/2024,Friday,February,Winter
+20006,16.16,2,18:53:23,464,534,No Promotion,24/02/2024,Saturday,February,Winter
+20005,33.21,10,02:27:33,499,581,5% Discount,25/02/2024,Sunday,February,Winter
+20014,11.28,9,05:17:14,181,183,5% Discount,26/02/2024,Monday,February,Winter
+20003,14.96,8,12:56:54,788,658,5% Discount,27/02/2024,Tuesday,February,Winter
+20002,70.32,2,05:29:27,317,296,No Promotion,28/02/2024,Wednesday,February,Winter
+20008,19.7,1,08:48:07,782,929,Buy 1 Get 1,29/02/2024,Thursday,February,Winter
+20001,92.98,2,15:50:14,868,851,No Promotion,01/03/2024,Friday,March,Summer
+20006,97.37,10,20:25:52,295,279,Buy 1 Get 1,02/03/2024,Saturday,March,Summer
+20007,33.81,3,21:24:39,759,734,5% Discount,03/03/2024,Sunday,March,Summer
+20005,48.63,10,20:33:04,828,875,10% Discount,04/03/2024,Monday,March,Summer
+20016,56.13,4,01:03:02,296,365,5% Discount,05/03/2024,Tuesday,March,Summer
+20002,39.75,1,21:52:07,671,725,Buy 1 Get 1,06/03/2024,Wednesday,March,Summer
+20008,47.27,6,12:31:54,450,379,No Promotion,07/03/2024,Thursday,March,Summer
+20012,44.01,8,07:22:52,778,892,Buy 1 Get 1,08/03/2024,Friday,March,Summer
+20004,44.12,3,03:04:03,475,574,Buy 1 Get 1,09/03/2024,Saturday,March,Summer
+20006,12.54,1,17:29:54,576,522,10% Discount,10/03/2024,Sunday,March,Summer
+20015,21.82,10,08:07:46,405,434,No Promotion,11/03/2024,Monday,March,Summer
+20012,22.02,9,20:33:15,664,690,10% Discount,12/03/2024,Tuesday,March,Summer
+20008,13.85,9,23:10:50,127,145,Buy 1 Get 1,13/03/2024,Wednesday,March,Summer
+20002,91.98,1,06:00:13,249,266,10% Discount,14/03/2024,Thursday,March,Summer
+20016,82.33,4,00:21:49,1019,910,Buy 1 Get 1,15/03/2024,Friday,March,Summer
+20005,88.79,8,16:17:30,195,236,No Promotion,16/03/2024,Saturday,March,Summer
+20001,72.13,10,06:02:45,1080,997,No Promotion,17/03/2024,Sunday,March,Summer
+20002,47.16,5,23:43:38,189,181,No Promotion,18/03/2024,Monday,March,Summer
+20005,67.27,5,00:05:09,589,502,Buy 1 Get 1,19/03/2024,Tuesday,March,Summer
+20008,20.01,9,10:44:29,866,992,No Promotion,20/03/2024,Wednesday,March,Summer
+20006,73.88,6,13:28:30,223,256,No Promotion,21/03/2024,Thursday,March,Summer
+20013,86.31,7,17:18:23,166,156,Buy 1 Get 1,22/03/2024,Friday,March,Summer
+20005,66.52,4,08:20:51,400,499,Buy 1 Get 1,23/03/2024,Saturday,March,Summer
+20014,16.37,6,13:36:19,232,194,Buy 1 Get 1,24/03/2024,Sunday,March,Summer
+20003,60.87,2,03:46:39,741,811,No Promotion,25/03/2024,Monday,March,Summer
+20009,27.28,5,13:29:12,686,613,5% Discount,26/03/2024,Tuesday,March,Summer
+20016,23.34,4,11:17:07,263,266,5% Discount,27/03/2024,Wednesday,March,Summer
+20002,17.75,1,19:43:15,718,697,10% Discount,28/03/2024,Thursday,March,Summer
+20001,62.18,10,05:26:21,531,545,5% Discount,29/03/2024,Friday,March,Summer
+20012,42.47,1,06:27:50,179,155,10% Discount,30/03/2024,Saturday,March,Summer
+20010,60.41,8,14:58:24,885,778,Buy 1 Get 1,31/03/2024,Sunday,March,Summer
+20002,76.99,6,06:58:34,824,821,5% Discount,01/04/2024,Monday,April,Summer
+20002,99.73,9,15:34:50,768,731,Buy 1 Get 1,02/04/2024,Tuesday,April,Summer
+20004,13.79,5,13:27:01,528,509,Buy 1 Get 1,03/04/2024,Wednesday,April,Summer
+20002,81.51,1,07:14:08,405,487,Buy 1 Get 1,04/04/2024,Thursday,April,Summer
+20006,29.56,5,08:37:58,174,148,Buy 1 Get 1,05/04/2024,Friday,April,Summer
+20002,74.69,7,14:46:08,162,152,5% Discount,06/04/2024,Saturday,April,Summer
+20009,73.38,7,03:30:48,630,550,10% Discount,07/04/2024,Sunday,April,Summer
+20012,45.44,7,03:28:58,389,376,10% Discount,08/04/2024,Monday,April,Summer
+20009,48.61,1,10:23:41,773,801,No Promotion,09/04/2024,Tuesday,April,Summer
+20009,98.66,9,11:03:51,90,112,10% Discount,10/04/2024,Wednesday,April,Summer
+20003,50.23,4,21:27:30,444,388,No Promotion,11/04/2024,Thursday,April,Summer
+20001,60.74,7,10:54:41,65,61,Buy 1 Get 1,12/04/2024,Friday,April,Summer
+20002,45.68,10,15:42:21,826,873,10% Discount,13/04/2024,Saturday,April,Summer
+20016,96.98,4,00:21:11,147,148,Buy 1 Get 1,14/04/2024,Sunday,April,Summer
+20002,95.64,4,17:58:13,715,618,5% Discount,15/04/2024,Monday,April,Summer
+20016,83.77,2,13:58:31,232,229,No Promotion,16/04/2024,Tuesday,April,Summer
+20015,26.26,3,06:43:28,819,972,10% Discount,17/04/2024,Wednesday,April,Summer
+20006,37.14,5,23:10:55,430,435,10% Discount,18/04/2024,Thursday,April,Summer
+20011,99.89,2,03:54:18,639,587,5% Discount,19/04/2024,Friday,April,Summer
+20013,36.36,2,01:08:49,951,816,5% Discount,20/04/2024,Saturday,April,Summer
+20001,52.34,3,02:04:42,550,609,5% Discount,21/04/2024,Sunday,April,Summer
+20006,44.34,2,06:07:30,568,696,5% Discount,22/04/2024,Monday,April,Summer
+20006,27.18,2,04:45:53,581,702,10% Discount,23/04/2024,Tuesday,April,Summer
+20004,73.56,10,06:23:43,70,70,No Promotion,24/04/2024,Wednesday,April,Summer
+20014,48.63,4,23:54:39,423,466,Buy 1 Get 1,25/04/2024,Thursday,April,Summer
+20008,71.77,7,09:06:09,1072,918,No Promotion,26/04/2024,Friday,April,Summer
+20012,40.86,8,18:34:38,226,269,No Promotion,27/04/2024,Saturday,April,Summer
+20012,99.96,9,05:25:02,177,206,10% Discount,28/04/2024,Sunday,April,Summer
+20005,69.52,7,12:15:11,808,818,No Promotion,29/04/2024,Monday,April,Summer
+20011,13.22,5,22:53:41,709,698,5% Discount,30/04/2024,Tuesday,April,Summer
+20013,53.44,2,23:33:49,447,429,10% Discount,01/05/2024,Wednesday,May,Summer
+20010,98.4,7,15:30:02,660,674,10% Discount,02/05/2024,Thursday,May,Summer
+20002,33.52,1,17:57:11,803,855,10% Discount,03/05/2024,Friday,May,Summer
+20012,17.87,4,13:39:34,548,554,5% Discount,04/05/2024,Saturday,May,Summer
+20016,43.46,6,16:31:37,560,600,Buy 1 Get 1,05/05/2024,Sunday,May,Summer
+20007,93.72,6,11:18:29,465,422,Buy 1 Get 1,06/05/2024,Monday,May,Summer
+20008,70.11,6,02:27:03,877,901,Buy 1 Get 1,07/05/2024,Tuesday,May,Summer
+20006,99.25,2,12:05:29,970,880,No Promotion,08/05/2024,Wednesday,May,Summer
+20014,89.6,8,21:28:08,60,70,10% Discount,09/05/2024,Thursday,May,Summer
+20003,41.65,10,20:31:50,626,558,Buy 1 Get 1,10/05/2024,Friday,May,Summer
+20007,82.93,4,09:43:13,582,561,10% Discount,11/05/2024,Saturday,May,Summer
+20007,55.87,10,16:07:43,768,803,Buy 1 Get 1,12/05/2024,Sunday,May,Summer
+20011,56.11,2,17:42:28,770,731,10% Discount,13/05/2024,Monday,May,Summer
+20003,23.82,5,16:59:33,368,424,No Promotion,14/05/2024,Tuesday,May,Summer
+20015,15.43,1,04:06:45,192,180,5% Discount,15/05/2024,Wednesday,May,Summer
+20010,78.38,6,06:18:01,751,933,Buy 1 Get 1,16/05/2024,Thursday,May,Summer
+20002,60.18,4,06:19:17,877,739,5% Discount,17/05/2024,Friday,May,Summer
+20005,80.97,8,00:36:25,569,552,10% Discount,18/05/2024,Saturday,May,Summer
+20015,47.44,1,04:50:46,197,241,No Promotion,19/05/2024,Sunday,May,Summer
+20001,50.28,5,15:49:30,787,777,No Promotion,20/05/2024,Monday,May,Summer
+20009,83.14,7,22:45:22,1164,978,10% Discount,21/05/2024,Tuesday,May,Summer
+20007,72.35,10,10:15:56,811,890,5% Discount,22/05/2024,Wednesday,May,Summer
+20006,19.25,8,12:54:19,578,611,5% Discount,23/05/2024,Thursday,May,Summer
+20013,18.11,10,16:59:37,324,343,Buy 1 Get 1,24/05/2024,Friday,May,Summer
+20007,99.82,9,03:21:07,54,59,No Promotion,25/05/2024,Saturday,May,Summer
+20004,40.3,2,07:07:00,153,180,5% Discount,26/05/2024,Sunday,May,Summer
+20002,19.15,6,04:27:03,85,85,No Promotion,27/05/2024,Monday,May,Summer
+20013,87.87,10,16:35:33,200,211,10% Discount,28/05/2024,Tuesday,May,Summer
+20011,47.71,6,03:37:54,90,92,No Promotion,29/05/2024,Wednesday,May,Summer
+20010,77.93,9,22:02:54,42,51,10% Discount,30/05/2024,Thursday,May,Summer
+20013,99.92,6,02:30:25,583,607,Buy 1 Get 1,31/05/2024,Friday,May,Summer
+20013,34.73,2,06:23:23,1013,849,10% Discount,01/06/2024,Saturday,June,Summer
+20010,55.5,4,12:11:54,597,533,5% Discount,02/06/2024,Sunday,June,Summer
+20010,64.26,7,07:23:04,994,907,No Promotion,03/06/2024,Monday,June,Summer
+20006,60.38,10,13:53:03,954,834,10% Discount,04/06/2024,Tuesday,June,Summer
+20009,24.18,8,05:22:02,842,734,10% Discount,05/06/2024,Wednesday,June,Summer
+20011,24.74,3,18:10:33,269,323,Buy 1 Get 1,06/06/2024,Thursday,June,Summer
+20004,27.66,10,07:57:21,1061,941,10% Discount,07/06/2024,Friday,June,Summer
+20007,27.73,5,00:22:07,624,717,Buy 1 Get 1,08/06/2024,Saturday,June,Summer
+20014,22.32,4,01:59:04,465,433,10% Discount,09/06/2024,Sunday,June,Summer
+20006,93.96,4,01:43:36,203,239,10% Discount,10/06/2024,Monday,June,Summer
+20001,56.69,9,14:18:06,633,736,No Promotion,11/06/2024,Tuesday,June,Summer
+20005,42.85,1,16:10:40,95,90,10% Discount,12/06/2024,Wednesday,June,Summer
+20002,12.34,7,04:46:19,827,740,Buy 1 Get 1,13/06/2024,Thursday,June,Summer
+20016,77.2,10,16:16:33,75,74,10% Discount,14/06/2024,Friday,June,Summer
+20005,74.97,1,16:54:46,157,180,5% Discount,15/06/2024,Saturday,June,Summer
+20007,52.2,3,00:43:00,653,630,Buy 1 Get 1,16/06/2024,Sunday,June,Summer
+20003,15.8,3,17:01:47,167,154,10% Discount,17/06/2024,Monday,June,Summer
+20001,28.53,10,22:51:03,715,845,5% Discount,18/06/2024,Tuesday,June,Summer
+20008,97.03,5,01:43:38,658,621,5% Discount,19/06/2024,Wednesday,June,Summer
+20011,36.26,2,04:29:19,757,664,No Promotion,20/06/2024,Thursday,June,Summer
+20016,93.26,9,10:34:11,533,623,No Promotion,21/06/2024,Friday,June,Summer
+20002,23.29,4,13:07:42,213,252,Buy 1 Get 1,22/06/2024,Saturday,June,Summer
+20015,57.49,4,08:20:05,512,574,No Promotion,23/06/2024,Sunday,June,Summer
+20005,49.32,6,20:36:12,146,139,10% Discount,24/06/2024,Monday,June,Summer
+20004,99.1,6,21:15:40,43,50,5% Discount,25/06/2024,Tuesday,June,Summer
+20012,21.5,9,19:54:53,492,469,5% Discount,26/06/2024,Wednesday,June,Summer
+20013,25.7,3,09:09:41,667,788,5% Discount,27/06/2024,Thursday,June,Summer
+20015,40.3,10,01:50:24,202,233,5% Discount,28/06/2024,Friday,June,Summer
+20003,20.38,5,13:26:01,241,255,10% Discount,29/06/2024,Saturday,June,Summer
+20004,83.78,8,22:50:54,428,363,No Promotion,30/06/2024,Sunday,June,Summer
+20002,22.51,7,14:50:32,519,442,No Promotion,01/07/2024,Monday,July,Monsoon
+20003,51.69,7,00:29:33,91,86,Buy 1 Get 1,02/07/2024,Tuesday,July,Monsoon
+20009,28.32,5,05:40:36,950,887,10% Discount,03/07/2024,Wednesday,July,Monsoon
+20005,73.28,5,09:11:44,481,555,10% Discount,04/07/2024,Thursday,July,Monsoon
+20014,76.52,5,09:49:16,395,439,10% Discount,05/07/2024,Friday,July,Monsoon
+20014,80.79,9,05:23:14,794,841,No Promotion,06/07/2024,Saturday,July,Monsoon
+20015,27,9,15:02:07,53,58,5% Discount,07/07/2024,Sunday,July,Monsoon
+20016,51.34,5,05:13:40,201,177,No Promotion,08/07/2024,Monday,July,Monsoon
+20002,98.53,6,21:36:19,332,390,10% Discount,09/07/2024,Tuesday,July,Monsoon
+20004,94.64,3,20:46:41,334,389,No Promotion,10/07/2024,Wednesday,July,Monsoon
+20014,66.35,1,15:30:43,573,491,10% Discount,11/07/2024,Thursday,July,Monsoon
+20007,95.54,7,10:52:53,618,596,Buy 1 Get 1,12/07/2024,Friday,July,Monsoon
+20009,39.62,9,05:29:19,822,801,5% Discount,13/07/2024,Saturday,July,Monsoon
+20010,65.94,4,08:53:35,658,636,No Promotion,14/07/2024,Sunday,July,Monsoon
+20007,87.37,5,19:01:39,643,542,Buy 1 Get 1,15/07/2024,Monday,July,Monsoon
+20011,94.49,8,06:37:33,790,913,5% Discount,16/07/2024,Tuesday,July,Monsoon
+20012,18.33,1,06:13:02,995,947,5% Discount,17/07/2024,Wednesday,July,Monsoon
+20016,66.47,10,23:29:24,895,811,5% Discount,18/07/2024,Thursday,July,Monsoon
+20005,10.13,7,04:14:10,907,879,10% Discount,19/07/2024,Friday,July,Monsoon
+20003,67.45,10,01:14:40,1107,961,Buy 1 Get 1,20/07/2024,Saturday,July,Monsoon
+20010,54.36,10,09:53:23,324,363,10% Discount,21/07/2024,Sunday,July,Monsoon
+20007,73.98,7,08:51:23,702,790,No Promotion,22/07/2024,Monday,July,Monsoon
+20008,17.44,5,11:02:32,171,207,Buy 1 Get 1,23/07/2024,Tuesday,July,Monsoon
+20001,84.09,9,03:27:00,682,794,5% Discount,24/07/2024,Wednesday,July,Monsoon
+20002,72.5,8,04:52:41,406,468,Buy 1 Get 1,25/07/2024,Thursday,July,Monsoon
+20011,71.39,5,17:22:25,648,590,5% Discount,26/07/2024,Friday,July,Monsoon
+20008,11.81,5,23:13:09,408,397,10% Discount,27/07/2024,Saturday,July,Monsoon
+20009,40.73,7,12:53:45,176,175,No Promotion,28/07/2024,Sunday,July,Monsoon
+20008,93.78,3,05:08:03,1043,878,10% Discount,29/07/2024,Monday,July,Monsoon
+20005,91.61,1,16:41:23,292,338,No Promotion,30/07/2024,Tuesday,July,Monsoon
+20009,10.56,8,01:53:48,760,763,5% Discount,31/07/2024,Wednesday,July,Monsoon
+20008,56.47,8,14:03:01,745,862,Buy 1 Get 1,01/08/2024,Thursday,August,Monsoon
+20001,22.93,9,02:47:53,891,913,Buy 1 Get 1,02/08/2024,Friday,August,Monsoon
+20007,99.78,5,12:29:16,811,689,5% Discount,03/08/2024,Saturday,August,Monsoon
+20012,46.77,6,12:31:47,786,871,5% Discount,04/08/2024,Sunday,August,Monsoon
+20007,68.54,8,17:58:43,660,570,5% Discount,05/08/2024,Monday,August,Monsoon
+20009,31.77,4,14:46:12,797,690,Buy 1 Get 1,06/08/2024,Tuesday,August,Monsoon
+20002,24.24,7,07:28:20,1015,946,10% Discount,07/08/2024,Wednesday,August,Monsoon
+20007,45.58,7,08:06:53,373,354,Buy 1 Get 1,08/08/2024,Thursday,August,Monsoon
+20013,86.8,3,15:44:19,52,64,Buy 1 Get 1,09/08/2024,Friday,August,Monsoon
+20006,25.29,1,02:19:09,693,704,5% Discount,10/08/2024,Saturday,August,Monsoon
+20016,80.96,8,03:10:16,468,453,Buy 1 Get 1,11/08/2024,Sunday,August,Monsoon
+20008,22.95,10,19:22:34,719,741,No Promotion,12/08/2024,Monday,August,Monsoon
+20005,25.45,1,14:30:29,814,694,Buy 1 Get 1,13/08/2024,Tuesday,August,Monsoon
+20001,21.9,3,01:23:12,118,114,10% Discount,14/08/2024,Wednesday,August,Monsoon
+20008,55.61,7,09:04:55,357,445,10% Discount,15/08/2024,Thursday,August,Monsoon
+20011,87.67,2,21:56:51,437,435,No Promotion,16/08/2024,Friday,August,Monsoon
+20010,22.21,6,16:29:54,874,985,Buy 1 Get 1,17/08/2024,Saturday,August,Monsoon
+20007,39.39,5,04:45:40,1014,883,No Promotion,18/08/2024,Sunday,August,Monsoon
+20010,46.55,9,01:28:56,544,521,Buy 1 Get 1,19/08/2024,Monday,August,Monsoon
+20006,77.68,9,21:11:52,200,225,No Promotion,20/08/2024,Tuesday,August,Monsoon
+20007,72.42,3,04:25:17,178,155,10% Discount,21/08/2024,Wednesday,August,Monsoon
+20014,15.26,6,13:11:17,889,869,No Promotion,22/08/2024,Thursday,August,Monsoon
+20013,30.35,7,04:34:24,831,776,No Promotion,23/08/2024,Friday,August,Monsoon
+20011,25.91,6,04:34:14,663,613,No Promotion,24/08/2024,Saturday,August,Monsoon
+20015,45.79,7,11:42:55,926,775,10% Discount,25/08/2024,Sunday,August,Monsoon
+20005,98.98,10,08:22:01,564,511,No Promotion,26/08/2024,Monday,August,Monsoon
+20004,79.74,1,19:42:47,380,326,Buy 1 Get 1,27/08/2024,Tuesday,August,Monsoon
+20015,43.13,10,08:37:20,860,735,5% Discount,28/08/2024,Wednesday,August,Monsoon
+20014,21.12,2,06:44:49,308,269,5% Discount,29/08/2024,Thursday,August,Monsoon
+20005,64.19,10,06:30:40,134,149,5% Discount,30/08/2024,Friday,August,Monsoon
+20012,98.7,8,16:53:57,710,713,Buy 1 Get 1,31/08/2024,Saturday,August,Monsoon
+20012,94.76,4,19:02:23,930,782,Buy 1 Get 1,01/09/2024,Sunday,September,Monsoon
+20005,27.85,7,07:28:26,171,172,5% Discount,02/09/2024,Monday,September,Monsoon
+20011,64.99,1,01:19:10,184,203,10% Discount,03/09/2024,Tuesday,September,Monsoon
+20009,55.57,3,16:55:11,845,922,10% Discount,04/09/2024,Wednesday,September,Monsoon
+20002,34.56,5,02:53:07,376,393,10% Discount,05/09/2024,Thursday,September,Monsoon
+20011,53.78,1,00:09:12,48,54,10% Discount,06/09/2024,Friday,September,Monsoon
+20012,75.37,8,02:27:08,145,134,No Promotion,07/09/2024,Saturday,September,Monsoon
+20004,71.2,1,16:45:06,131,152,No Promotion,08/09/2024,Sunday,September,Monsoon
+20016,32.8,10,16:00:00,634,539,No Promotion,09/09/2024,Monday,September,Monsoon
+20008,53.72,1,08:42:46,467,391,5% Discount,10/09/2024,Tuesday,September,Monsoon
+20013,25.51,4,12:09:37,303,264,No Promotion,11/09/2024,Wednesday,September,Monsoon
+20007,56.53,4,00:25:31,553,519,10% Discount,12/09/2024,Thursday,September,Monsoon
+20002,94.67,4,02:31:43,755,789,5% Discount,13/09/2024,Friday,September,Monsoon
+20010,70.99,10,00:41:35,550,687,10% Discount,14/09/2024,Saturday,September,Monsoon
+20003,67.1,3,17:50:35,589,666,10% Discount,15/09/2024,Sunday,September,Monsoon
+20004,48.5,3,15:40:02,55,69,5% Discount,16/09/2024,Monday,September,Monsoon
+20008,46.61,2,11:32:14,239,223,No Promotion,17/09/2024,Tuesday,September,Monsoon
+20003,38.6,1,15:37:01,804,688,Buy 1 Get 1,18/09/2024,Wednesday,September,Monsoon
+20005,68.98,1,22:31:12,1083,969,No Promotion,19/09/2024,Thursday,September,Monsoon
+20013,27.93,5,21:19:35,792,978,Buy 1 Get 1,20/09/2024,Friday,September,Monsoon
+20002,10.99,5,15:42:30,59,58,10% Discount,21/09/2024,Saturday,September,Monsoon
+20016,10.17,1,07:17:24,256,301,Buy 1 Get 1,22/09/2024,Sunday,September,Monsoon
+20015,95.49,7,13:12:43,598,522,10% Discount,23/09/2024,Monday,September,Monsoon
+20005,54.07,9,18:04:33,872,769,10% Discount,24/09/2024,Tuesday,September,Monsoon
+20013,90.53,8,00:41:42,827,721,10% Discount,25/09/2024,Wednesday,September,Monsoon
+20010,67.43,5,13:28:38,807,691,No Promotion,26/09/2024,Thursday,September,Monsoon
+20012,97.94,1,09:43:00,549,493,Buy 1 Get 1,27/09/2024,Friday,September,Monsoon
+20013,40.52,5,03:26:13,1067,977,Buy 1 Get 1,28/09/2024,Saturday,September,Monsoon
+20003,86.68,8,15:44:17,423,354,5% Discount,29/09/2024,Sunday,September,Monsoon
